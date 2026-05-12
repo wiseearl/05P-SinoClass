@@ -18,6 +18,7 @@
 4. 預設沿用 embedding 模型 `nomic-embed-text` 做檢索，生成模型則優先使用參數檔中的 `model`，若未提供則自動從本機 Ollama 模型中挑選第一個非 embedding 模型。
 5. 實際執行程式，確認可從向量資料庫取回上下文並成功寫出答案檔案。
 6. 修改 [Pdf2Embedding/rag-request.py](Pdf2Embedding/rag-request.py) 的輸出格式，讓 [Pdf2Embedding/output.txt](Pdf2Embedding/output.txt) 同時包含問題、回答與搜尋到的相近文件片段及頁碼資訊。
+7. 擴充 [Pdf2Embedding/config-rag-request.txt](Pdf2Embedding/config-rag-request.txt)，加入 `model`、`embedding_model`、`base_url`、`collection`、`database_path`、`top_k`、`timeout` 等可調參數，讓查詢模型與檢索行為可直接透過設定檔調整。
 
 ## 參數檔格式
 
@@ -40,6 +41,8 @@ top_k=4
 timeout=120
 ```
 
+目前專案中的 [Pdf2Embedding/config-rag-request.txt](Pdf2Embedding/config-rag-request.txt) 已擴充為可直接調整模型、資料庫位置與檢索筆數的版本。
+
 ## 執行方式
 
 在專案根目錄執行：
@@ -61,3 +64,4 @@ d:/Code/CodingP/05P-SinoClass/.venv/Scripts/python.exe Pdf2Embedding/rag-request
 - 已執行 `python Pdf2Embedding/rag-request.py`
 - 程式成功從 `private-data` collection 取回 4 筆相近片段
 - 回答內容與相近文件片段已寫入 [Pdf2Embedding/output.txt](Pdf2Embedding/output.txt)
+- 已更新 [Pdf2Embedding/config-rag-request.txt](Pdf2Embedding/config-rag-request.txt)，加入可調參數範例並以實際設定值保存

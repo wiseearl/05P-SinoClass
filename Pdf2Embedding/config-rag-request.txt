@@ -1,1 +1,8 @@
-question="個人資料是什麼"
+question="保障資料原則"
+model=qwen3.5:4b
+embedding_model=nomic-embed-text
+base_url=http://localhost:11434
+collection=private-data
+database_path=./db/data.db
+top_k=4
+timeout=300
