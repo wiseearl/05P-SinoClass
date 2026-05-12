@@ -76,6 +76,35 @@ def fetch_available_models(base_url: str, timeout_seconds: int) -> list[str]:
     return [str(model.get("name", "")).strip() for model in models if model.get("name")]
 
 
+def select_model_for_endpoint(
+    config: dict[str, str], endpoint: str, base_url: str, timeout_seconds: int
+) -> str:
+    is_embedding_endpoint = endpoint in {"/api/embed", "/api/embeddings"}
+    config_key = "embedding_model" if is_embedding_endpoint else "model"
+    configured_model = config.get(config_key)
+    if configured_model:
+        return configured_model
+
+    available_models = fetch_available_models(base_url, timeout_seconds)
+    if not available_models:
+        raise RuntimeError(
+            "No Ollama models are installed. Add model=<name> or embedding_model=<name> to the config or pull a model first."
+        )
+
+    if is_embedding_endpoint:
+        for model_name in available_models:
+            lower_name = model_name.lower()
+            if "embed" in lower_name or "embedding" in lower_name:
+                return model_name
+    else:
+        for model_name in available_models:
+            lower_name = model_name.lower()
+            if "embed" not in lower_name and "embedding" not in lower_name:
+                return model_name
+
+    return available_models[0]
+
+
 def build_request_payload(config: dict[str, str]) -> tuple[str, dict[str, Any], int]:
     question = config.get("question")
     if not question:
@@ -88,25 +117,31 @@ def build_request_payload(config: dict[str, str]) -> tuple[str, dict[str, Any], 
 
     stream = get_bool(config.get("stream"), default=False)
     timeout_seconds = get_int(config.get("timeout"), default=60)
-    model = config.get("model")
-    if not model:
-        available_models = fetch_available_models(base_url, timeout_seconds)
-        if not available_models:
-            raise RuntimeError(
-                "No Ollama models are installed. Add model=<name> to the config or pull a model first."
-            )
-        model = available_models[0]
-
-    payload: dict[str, Any] = {
-        "model": model,
-        "stream": stream,
-    }
+    model = select_model_for_endpoint(config, endpoint, base_url, timeout_seconds)
 
     if endpoint == "/api/chat":
+        payload: dict[str, Any] = {
+            "model": model,
+            "stream": stream,
+        }
         payload["messages"] = [{"role": "user", "content": question}]
         if config.get("system"):
             payload["messages"].insert(0, {"role": "system", "content": config["system"]})
+    elif endpoint == "/api/embed":
+        payload = {
+            "model": model,
+            "input": question,
+        }
+    elif endpoint == "/api/embeddings":
+        payload = {
+            "model": model,
+            "prompt": question,
+        }
     else:
+        payload = {
+            "model": model,
+            "stream": stream,
+        }
         payload["prompt"] = question
         if config.get("system"):
             payload["system"] = config["system"]

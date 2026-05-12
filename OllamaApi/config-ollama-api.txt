@@ -1,1 +1,3 @@
-question="說一個笑話"
+question="Hello"
+model=qwen3.5:4b
+embedding_model=nomic-embed-text
