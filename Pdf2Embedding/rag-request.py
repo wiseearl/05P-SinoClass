@@ -219,8 +219,33 @@ def generate_answer(
 	return answer
 
 
-def write_output(output_path: Path, answer: str) -> None:
-	output_path.write_text(answer + "\n", encoding="utf-8")
+def format_contexts(documents: list[str], metadatas: list[dict[str, Any]]) -> str:
+	blocks: list[str] = []
+	for index, document in enumerate(documents, start=1):
+		metadata = metadatas[index - 1] if index - 1 < len(metadatas) else {}
+		page = metadata.get("page", "?")
+		file_name = metadata.get("file_name", "unknown")
+		blocks.append(
+			f"[{index}] file={file_name}, page={page}\n{document}"
+		)
+	return "\n\n".join(blocks)
+
+
+def write_output(
+	output_path: Path,
+	question: str,
+	answer: str,
+	documents: list[str],
+	metadatas: list[dict[str, Any]],
+) -> None:
+	context_text = format_contexts(documents, metadatas)
+	content = (
+		f"問題:\n{question}\n\n"
+		f"回答:\n{answer}\n\n"
+		"搜尋與問題最相近的文件片段:\n"
+		f"{context_text}\n"
+	)
+	output_path.write_text(content, encoding="utf-8")
 
 
 def main() -> int:
@@ -260,7 +285,7 @@ def main() -> int:
 		)
 
 		output_path = script_dir / "output.txt"
-		write_output(output_path, answer)
+		write_output(output_path, question, answer, documents, metadatas)
 
 		print(f"Config file: {config_path.name}")
 		print(f"Question: {question}")

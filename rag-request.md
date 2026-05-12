@@ -14,9 +14,10 @@
    - 對 ChromaDB collection 進行相似度搜尋
    - 把檢索到的文件片段組成 prompt
    - 呼叫 Ollama 生成最終答案
-   - 將答案輸出到 [Pdf2Embedding/output.txt](Pdf2Embedding/output.txt)
+   - 將答案與搜尋到的相近文件片段一併輸出到 [Pdf2Embedding/output.txt](Pdf2Embedding/output.txt)
 4. 預設沿用 embedding 模型 `nomic-embed-text` 做檢索，生成模型則優先使用參數檔中的 `model`，若未提供則自動從本機 Ollama 模型中挑選第一個非 embedding 模型。
 5. 實際執行程式，確認可從向量資料庫取回上下文並成功寫出答案檔案。
+6. 修改 [Pdf2Embedding/rag-request.py](Pdf2Embedding/rag-request.py) 的輸出格式，讓 [Pdf2Embedding/output.txt](Pdf2Embedding/output.txt) 同時包含問題、回答與搜尋到的相近文件片段及頁碼資訊。
 
 ## 參數檔格式
 
@@ -51,7 +52,7 @@ d:/Code/CodingP/05P-SinoClass/.venv/Scripts/python.exe Pdf2Embedding/rag-request
 
 - 程式會讀取 [Pdf2Embedding/config-rag-request.txt](Pdf2Embedding/config-rag-request.txt) 的問題內容。
 - 程式會從 [Pdf2Embedding/db/data.db](Pdf2Embedding/db/data.db) 搜尋與問題最相近的文件片段。
-- 程式會把答案輸出到 [Pdf2Embedding/output.txt](Pdf2Embedding/output.txt)。
+- 程式會把答案與搜尋到的相近文件片段一併輸出到 [Pdf2Embedding/output.txt](Pdf2Embedding/output.txt)。
 - 若本機沒有可用的生成模型，程式會回報錯誤並結束。
 
 ## 驗證結果
@@ -59,4 +60,4 @@ d:/Code/CodingP/05P-SinoClass/.venv/Scripts/python.exe Pdf2Embedding/rag-request
 - 已執行 `python -m py_compile Pdf2Embedding/rag-request.py`
 - 已執行 `python Pdf2Embedding/rag-request.py`
 - 程式成功從 `private-data` collection 取回 4 筆相近片段
-- 回答內容已寫入 [Pdf2Embedding/output.txt](Pdf2Embedding/output.txt)
+- 回答內容與相近文件片段已寫入 [Pdf2Embedding/output.txt](Pdf2Embedding/output.txt)

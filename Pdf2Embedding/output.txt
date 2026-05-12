@@ -1,5 +1,18 @@
-根據上下文，文件主要定義的是**「個人資料」**，其定義是：
+問題:
+個人資料是什麼
 
-由資料使用者為某目的或某些目的而收集、持有、處理或使用的資料。
+回答:
+資料中沒有足夠資訊
 
-（此類資訊可包含資料使用者的地址、姓名或名稱，以及該資料屬的種類、目的、類別的接收者，或移轉至香港以外的具體地點等。）
+搜尋與問題最相近的文件片段:
+[1] file=private-data.pdf, page=74
+經核證文本 Verified Copy 許可種類個人資料 (permitted kind of personal data) 就資料當事 人對某項擬進行的個人資料使用或提供的同意而言，指 符合以下條件的種類的個人資料 —— (a) 該種類的個人資料是在該當事人根據第 35C(2)(b)(i) 或 35J(2)(b)(ii) 條獲提供的資訊中指明的；及 (b) 該同意是就該種類的個人資料給予的； 許可類別人士 (permitted class of persons) 就資料當事人對某項 擬進行的個人資料提供的同意而言，指符合以下條件的 類別的人士 —— (a) 該類別的人士是在該當事人根據第 35J(2)(b)(iii) 條獲 提供的資訊中指明的；及 (b) 該同意是就該類別的人士給予的； 許可類別促銷標的 (permitted class of marketing subjects) 就資 料當事人對某項擬進行的個人資料使用或提供的同意而 言，指符合以下條件的類別的促銷標的 —— (a) 該類別的促銷標的是在該當事人根據第 35C(2)(b)(ii) 或 35J(2)(b)(iv) 條獲提供的資訊中指明的；及 (b) 該同意是就該類別的促銷標的給予的。 (2) 如某人提供個人資料，以獲得金錢或其他財產的回報， 則不論 —— (a) 該項回報是否以某條件獲符合為前提；或 (b) 該人是否維持對該資料的使用的任何控制， 就本部而言，該人即屬為得益而提供個人資料。 ( 編輯修訂 ——2013 年第 1 號編輯修訂紀錄 ) (a) any goods, facility or service offered, or the availability of which is advertised; or (b) any purpose for which donations or contributions are solicited; permitted class of marketing subjects ( 許可類別促銷標的), in relation to a consent by a data subject to an intended use or provision of personal data, means a class of marketing s
+
+[2] file=private-data.pdf, page=83
+經核證文本 Verified Copy 35K. 如無資料當事人同意，資料使用者不得提供個人資料以供用 於直接促銷 (1) 已遵守第 35J 條的資料使用者，不得將有關資料當事人 的個人資料提供予另一人，以供該人在直接促銷中使用， 但如以下條件獲符合，則不在此限 —— (a) 該資料使用者已收到該當事人對擬如此提供 ( 如該 資料使用者根據第 35J(2)(b) 條提供的資訊所描述者 ) 該個人資料的書面同意，不論是一般的同意或是選 擇性的同意； (b) ( 如該資料使用者是為得益而提供該資料的 ) 擬如此 提供該資料的意向，已在第 35J(2)(b)(i) 條所指的資 訊中指明；及 ( 由 2014 年第 18 號第 172 條修訂 ) (c) 該項提供符合該當事人的同意。 (2) 就第 (1)(c) 款而言，如 —— (a) 有關個人資料屬某許可種類個人資料； (b) 獲提供該資料的人屬某許可類別人士；及 (c) 該資料是就某促銷標的而使用，而該促銷標的屬某 許可類別促銷標的， 則該項提供即屬符合該當事人的同意。 (3) 資料當事人可透過回應途徑或其他書面方法，向資料使 用者傳達對提供個人資料的同意。 (4) 資料使用者違反第 (1) 款，即屬犯罪，一經定罪 —— (b) if the data is provided otherwise than for gain, to a fine of $500,000 and to imprisonment for 3 years. (6) In any proceedings for an offence under subsection (5), it is a defence for the data user charged to prove that the data user took all reasonable precautions and exercised all due diligence to avoid the commission of the offence. 35K. Data user must not provide personal data for use in direct marketing without data subject’s consent (1) A data
+
+[3] file=private-data.pdf, page=157
+經核證文本 Verified Copy 非港人服務提供者 (non-Hong Kong service provider) 指已經或 正在向任何香港人士提供服務的人 ( 並非香港人士者 )， 不論服務是否在香港提供； 香港人士 (Hong Kong person) 指 —— (a) 身處香港的個人；或 (b) 符合以下說明的團體 —— (i) 在香港成立為法團、設立或註冊；或 (ii) 在香港有業務地點。 66N. 上訴反對停止披露通知 (1) 如專員於某日向某人送達停止披露通知，則在該日之後 的 14 日內，以下人士可向行政上訴委員會提出上訴，反 對該通知 —— (a) 該人；或 (b) 受該通知影響的任何其他人。 (2) 上訴不影響有關停止披露通知的施行。 66O. 關於停止披露通知的罪行 (1) 獲送達停止披露通知的人違反該通知，即屬犯罪 —— (e) be accompanied by a copy of this section and sections 66N and 66O. (4) The Commissioner may cancel a cessation notice by serving a written notice on the person on whom the cessation notice is served. (5) In this section— Hong Kong person (香港人士) means— (a) an individual who is present in Hong Kong; or (b) a body of persons that— (i) is incorporated, established or registered in Hong Kong; or (ii) has a place of business in Hong Kong; non-Hong Kong service provider (非港人服務提供者) means a person (not being a Hong Kong person) that has provided or is providing any service (whether or not in Hong Kong) to any Hong Ko
+
+[4] file=private-data.pdf, page=90
+經核證文本 Verified Copy (i) 在有人作出或從事有關作為或行為 ( 視屬何情 況而定 ) 的任何時間 —— (A) 投訴人 ( 如投訴人是就某名個人而屬有關 人士的有關人士，則指該名個人 ) 是居於 香港的；或 (B) 有關的資料使用者能夠在香港控制有關的 個人資料的收集、持有、處理或使用或能 夠從香港行使該項控制的； (ii) 在有人作出或從事有關作為或行為 ( 視屬何情 況而定 ) 的任何時間，投訴人 ( 如投訴人是就 某名個人而屬有關人士的有關人士，則指該名 個人 ) 是在香港的； (iii) 專員認為有關的作為或行為 ( 視屬何情況而定 ) 可能損害投訴人 ( 如投訴人是就某名個人而屬 有關人士的有關人士，則指該名個人 ) 強制執 行在香港獲取或產生的權利或行使在香港獲取 或產生的特權； ( 由 2021 年第 32 號第 4 條修訂 ) (e) 專員信納有關的資料使用者在不少於緊接專員收到 該項投訴當日之前的 2 年的期間內，不曾是資料使 用者；或 ( 由 2021 年第 32 號第 4 條修訂 ) (f) 專員認為該項投訴關乎第 64(1)、(3A) 或 (3C) 條所 訂罪行，並決定進行第 66C 條所界定的指明調查。 ( 由 2021 年第 32 號第 4 條增補 ) (2) 如專員在顧及有關個案的所有情況後，信納有以下情況， 他可拒絕進行或決定終止由投訴引發的調查 —— ( 由 2012 年第 18 號第 22 條修訂 ) (a) 該項投訴或一項在性質上大體與其相似的投訴已在 先前引發一項調查，而專員在進行該項先前的調查 後信納沒有違反本條例下的規定的情況； (b) 在該項投訴中指明的作為或行為微不足道； (c) the complainant cannot be identified or traced; (d) none of the following conditions is fulfilled in respect of the act or practice specified in the complaint— (i) either— (A) the complainant (or, if the complainant is a relevant person, the individual in respect
