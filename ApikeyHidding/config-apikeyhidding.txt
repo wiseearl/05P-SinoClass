@@ -1,0 +1,3 @@
+keyfile=key-ollama.txt
+request="Hello"
+output=./output.txt

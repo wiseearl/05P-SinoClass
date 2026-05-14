@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+/ApikeyHidding/key-ollama.txt
+
+/ApikeyHidding/output.txt
+/OllamaApi/output.txt
+/Pdf2Embedding/output.txt
