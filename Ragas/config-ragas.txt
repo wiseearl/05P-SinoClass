@@ -1,0 +1,9 @@
+target_config=../ApikeyHidding/config-apikeyhidding.txt
+target_output=../ApikeyHidding/output.txt
+base_url=http://localhost:11434
+model=qwen3.5:4b
+embedding_model=nomic-embed-text
+output=./output.txt
+timeout=600
+max_workers=1
+num_predict=128
