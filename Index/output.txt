@@ -1,0 +1,279 @@
+問題:
+個人資料條例第一條
+
+回答:
+提供的上下文中沒有包含《個人資料條例》第一條的完整內容，亦無足夠資訊回答該條文的具体定義或規定。
+
+RAG Top 4 結果:
+[1] chunk_id=private-data-00072, distance=0.537564, file=private-data.pdf, page=23
+章節: 第 1 部 導言
+章節頁碼: 4, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
+章節預覽: 4. 保障資料原則
+內容:
+[法規章節] 第 1 部 導言
+(12) 如某人純粹代另一人持有、處理或使用的任何個人資料，
+而該首述的人並非為其任何本身目的而持有、處理或使
+用 ( 視屬何情況而定 ) 該資料，則 ( 但亦只有在此情況下 )
+該首述的人就該個人資料而言不算是資料使用者。 ( 由
+2012 年第 18 號第 2 條修訂 )
+(13) 為免生疑問，現聲明︰就本條例而言，如一個人的行為
+已使他或可以使他根據不時生效的香港賽馬會賽事規例
+及董事局指示成為被吊銷資格的人或被暫時吊銷資格的
+人 ， 則該等行為屬嚴重不當的行為 。 ( 由 1999 年第 34
+號第 3 條修訂 )
+( 編輯修訂 ——2013 年第 1 號編輯修訂紀錄 )
+1-19 第 1 部
+
+[2] chunk_id=private-data-00066, distance=0.541147, file=private-data.pdf, page=17
+章節: 第 1 部 導言
+章節頁碼: 4, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
+章節預覽: 4. 保障資料原則
+內容:
+[法規章節] 第 1 部 導言
+訂明人員 (
+人；
+訂明資訊 (
+訊； ( 由 2012 年第 18 號第 3 條增補 )
+個人身分標識符 (
+(a) 由資料使用者為其作業而編配予一名個人；及
+(b) 就該資料使用者而言，能識辨該名個人的身分而不
+虞混淆，
+的標識符，但用以識辨該名個人的該人的姓名，則不包
+括在內；
+個人資料 (
+(a) 直接或間接與一名在世的個人有關的；
+(b) 從該資料直接或間接地確定有關的個人的身分是切
+實可行的；及
+(c) 該資料的存在形式令予以查閱及處理均是切實可行
+的； ( 由 2012 年第 18 號第 2 條修訂 )
+個人資料系統 (
+者用作收集、持有、處理或使用個人資料的任何系統 ( 不
+論該系統是否自動化的 )，並包括組成該系統一部分的任
+何文件及設備；
+家人 (
+或姻親關係而與該人有親屬關係的人； ( 由 2021 年第 32
+號第 3 條增補 )
+核准實務守則 (
+實務守則；
+核對程序 (
+而取自 10 個或 10 個以上的資料當事人的個人資料與為
+其他目的而自該等資料當事人收集的個人資料比較的程
+序 ( 用人手方法的除外 )，而 ——
+1-7 第 1 部
+
+[3] chunk_id=private-data-00254, distance=0.543438, file=private-data.pdf, page=185
+章節: 第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情
+章節頁碼: 184, 185
+章節預覽: 手令只授權在本手令發出日期後的 14 日內行使該權力。
+內容:
+[法規章節] 第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情
+.......... 年.......... 月.......... 日
+( 簽署 ) 裁判官
+* 刪去不適用者。
+( 由 2021 年第 32 號第 13 條修訂 )
+
+[4] chunk_id=private-data-00030, distance=0.543936, file=private-data.pdf, page=7
+章節: 第 6 部 個人資料等的核對程序及轉移
+章節頁碼: 6, 7, 66, 67, 68, 69, 70, 71, 72, 73
+章節預覽: 港以外地方
+內容:
+[法規章節] 第 6 部 個人資料等的核對程序及轉移
+34. ( 廢除 )
+35. 在相同情況下重複收集個人資料
+第 6
+在直接促銷中使用個人資料及提供個人資
+料以供用於直接促銷
+
+JSON:
+{
+  "config_path": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\config-req-score.txt",
+  "index_path": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\db\\chapter-index.json",
+  "collection": "private-data-chapter-index",
+  "question": "個人資料條例第一條",
+  "answer": "提供的上下文中沒有包含《個人資料條例》第一條的完整內容，亦無足夠資訊回答該條文的具体定義或規定。",
+  "base_url": "http://localhost:11434",
+  "model": "qwen3.5:4b",
+  "embedding_model": "nomic-embed-text",
+  "top_hits": [
+    {
+      "rank": 1,
+      "chunk_id": "private-data-00072",
+      "distance": 0.5375639200210571,
+      "metadata": {
+        "chunk_index": 72,
+        "start_char": 0,
+        "file_name": "private-data.pdf",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 304,
+        "chapter": "第 1 部 導言",
+        "page": 23
+      },
+      "chapter": {
+        "chapter": "第 1 部 導言",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          4,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "chunk_ids": [
+          "private-data-00019",
+          "private-data-00063",
+          "private-data-00064",
+          "private-data-00065",
+          "private-data-00066",
+          "private-data-00067",
+          "private-data-00068",
+          "private-data-00069",
+          "private-data-00070",
+          "private-data-00071",
+          "private-data-00072",
+          "private-data-00073"
+        ],
+        "chunk_count": 12,
+        "preview": "4. 保障資料原則",
+        "index_order": 2
+      },
+      "document": "[法規章節] 第 1 部 導言\n(12) 如某人純粹代另一人持有、處理或使用的任何個人資料，\n而該首述的人並非為其任何本身目的而持有、處理或使\n用 ( 視屬何情況而定 ) 該資料，則 ( 但亦只有在此情況下 )\n該首述的人就該個人資料而言不算是資料使用者。 ( 由\n2012 年第 18 號第 2 條修訂 )\n(13) 為免生疑問，現聲明︰就本條例而言，如一個人的行為\n已使他或可以使他根據不時生效的香港賽馬會賽事規例\n及董事局指示成為被吊銷資格的人或被暫時吊銷資格的\n人 ， 則該等行為屬嚴重不當的行為 。 ( 由 1999 年第 34\n號第 3 條修訂 )\n( 編輯修訂 ——2013 年第 1 號編輯修訂紀錄 )\n1-19 第 1 部"
+    },
+    {
+      "rank": 2,
+      "chunk_id": "private-data-00066",
+      "distance": 0.5411471128463745,
+      "metadata": {
+        "start_char": 0,
+        "chapter": "第 1 部 導言",
+        "file_name": "private-data.pdf",
+        "end_char": 489,
+        "chunk_index": 66,
+        "page": 17,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf"
+      },
+      "chapter": {
+        "chapter": "第 1 部 導言",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          4,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "chunk_ids": [
+          "private-data-00019",
+          "private-data-00063",
+          "private-data-00064",
+          "private-data-00065",
+          "private-data-00066",
+          "private-data-00067",
+          "private-data-00068",
+          "private-data-00069",
+          "private-data-00070",
+          "private-data-00071",
+          "private-data-00072",
+          "private-data-00073"
+        ],
+        "chunk_count": 12,
+        "preview": "4. 保障資料原則",
+        "index_order": 2
+      },
+      "document": "[法規章節] 第 1 部 導言\n訂明人員 (\n人；\n訂明資訊 (\n訊； ( 由 2012 年第 18 號第 3 條增補 )\n個人身分標識符 (\n(a) 由資料使用者為其作業而編配予一名個人；及\n(b) 就該資料使用者而言，能識辨該名個人的身分而不\n虞混淆，\n的標識符，但用以識辨該名個人的該人的姓名，則不包\n括在內；\n個人資料 (\n(a) 直接或間接與一名在世的個人有關的；\n(b) 從該資料直接或間接地確定有關的個人的身分是切\n實可行的；及\n(c) 該資料的存在形式令予以查閱及處理均是切實可行\n的； ( 由 2012 年第 18 號第 2 條修訂 )\n個人資料系統 (\n者用作收集、持有、處理或使用個人資料的任何系統 ( 不\n論該系統是否自動化的 )，並包括組成該系統一部分的任\n何文件及設備；\n家人 (\n或姻親關係而與該人有親屬關係的人； ( 由 2021 年第 32\n號第 3 條增補 )\n核准實務守則 (\n實務守則；\n核對程序 (\n而取自 10 個或 10 個以上的資料當事人的個人資料與為\n其他目的而自該等資料當事人收集的個人資料比較的程\n序 ( 用人手方法的除外 )，而 ——\n1-7 第 1 部"
+    },
+    {
+      "rank": 3,
+      "chunk_id": "private-data-00254",
+      "distance": 0.5434380769729614,
+      "metadata": {
+        "start_char": 0,
+        "chunk_index": 254,
+        "page": 185,
+        "file_name": "private-data.pdf",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "chapter": "第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情",
+        "end_char": 84
+      },
+      "chapter": {
+        "chapter": "第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          184,
+          185
+        ],
+        "chunk_ids": [
+          "private-data-00253",
+          "private-data-00254"
+        ],
+        "chunk_count": 2,
+        "preview": "手令只授權在本手令發出日期後的 14 日內行使該權力。",
+        "index_order": 54
+      },
+      "document": "[法規章節] 第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情\n.......... 年.......... 月.......... 日\n( 簽署 ) 裁判官\n* 刪去不適用者。\n( 由 2021 年第 32 號第 13 條修訂 )"
+    },
+    {
+      "rank": 4,
+      "chunk_id": "private-data-00030",
+      "distance": 0.5439357161521912,
+      "metadata": {
+        "start_char": 0,
+        "page": 7,
+        "chunk_index": 30,
+        "chapter": "第 6 部 個人資料等的核對程序及轉移",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 62,
+        "file_name": "private-data.pdf"
+      },
+      "chapter": {
+        "chapter": "第 6 部 個人資料等的核對程序及轉移",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          6,
+          7,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73
+        ],
+        "chunk_ids": [
+          "private-data-00029",
+          "private-data-00030",
+          "private-data-00119",
+          "private-data-00120",
+          "private-data-00121",
+          "private-data-00122",
+          "private-data-00123",
+          "private-data-00124",
+          "private-data-00125",
+          "private-data-00126"
+        ],
+        "chunk_count": 10,
+        "preview": "港以外地方",
+        "index_order": 11
+      },
+      "document": "[法規章節] 第 6 部 個人資料等的核對程序及轉移\n34. ( 廢除 )\n35. 在相同情況下重複收集個人資料\n第 6\n在直接促銷中使用個人資料及提供個人資\n料以供用於直接促銷"
+    }
+  ]
+}

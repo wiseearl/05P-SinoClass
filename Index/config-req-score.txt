@@ -1,0 +1,8 @@
+question:個人資料條例第一條
+model=qwen3.5:4b
+embedding_model=nomic-embed-text
+base_url=http://localhost:11434
+collection=private-data-chapter-index
+database_path=./db/data.db
+top_k=4
+timeout=300
