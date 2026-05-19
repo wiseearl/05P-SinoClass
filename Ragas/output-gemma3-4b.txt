@@ -1,0 +1,40 @@
+RAGAS 評估結果
+整體分數: 0.7255
+評估模型: qwen3.5:4b
+Embedding 模型: nomic-embed-text
+評估端點: http://localhost:11434
+原始問題: 提供一個天氣相關的笑話
+模型回答: question: 提供一個天氣相關的笑話
+answer: 為什麼雨滴總是那麼悲觀？
+
+...因為它們總是下落！ 😂
+
+希望你喜歡這個笑話！
+model: gemma3:4b
+
+各項指標:
+- answer_relevancy: 0.4511
+- conversation_quality: 1
+
+JSON:
+{
+  "sample": {
+    "user_input": "提供一個天氣相關的笑話",
+    "response": "question: 提供一個天氣相關的笑話\nanswer: 為什麼雨滴總是那麼悲觀？\n\n...因為它們總是下落！ 😂\n\n希望你喜歡這個笑話！\nmodel: gemma3:4b",
+    "target_config_path": "D:\\Code\\CodingP\\05P-SinoClass\\ApikeyHidding\\config-apikeyhidding.txt",
+    "target_output_path": "D:\\Code\\CodingP\\05P-SinoClass\\ApikeyHidding\\output-gemma3-4b.txt"
+  },
+  "evaluation": {
+    "overall_score": 0.7255354385605971,
+    "metrics": {
+      "answer_relevancy": 0.45107087712119426,
+      "conversation_quality": 1
+    },
+    "model": "qwen3.5:4b",
+    "embedding_model": "nomic-embed-text",
+    "base_url": "http://localhost:11434",
+    "max_workers": 1,
+    "num_predict": 128,
+    "timeout": 600
+  }
+}

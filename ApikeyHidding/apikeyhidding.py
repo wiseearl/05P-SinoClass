@@ -191,9 +191,20 @@ def resolve_output_path(config_path: Path, config: dict[str, str]) -> Path:
     return resolve_relative_path(config_path.parent, config.get("output", "./output.txt"), "output")
 
 
-def write_output(output_path: Path, response_text: str, response_json: dict[str, Any]) -> None:
+def write_output(
+    output_path: Path,
+    question: str,
+    answer: str,
+    model: str,
+    response_json: dict[str, Any],
+) -> None:
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    content = response_text or json.dumps(response_json, ensure_ascii=False, indent=2)
+    resolved_answer = answer or json.dumps(response_json, ensure_ascii=False, indent=2)
+    content = (
+        f"question: {question}\n"
+        f"answer: {resolved_answer}\n"
+        f"model: {model}"
+    )
     output_path.write_text(content + "\n", encoding="utf-8")
 
 
@@ -208,7 +219,7 @@ def main() -> int:
         response_json = call_ollama_api(url, payload, timeout_seconds, request_headers)
         response_text = extract_response_text(url, response_json)
         output_path = resolve_output_path(config_path, config)
-        write_output(output_path, response_text, response_json)
+        write_output(output_path, config["request"], response_text, model, response_json)
 
         print(f"Config file: {config_path.name}")
         print(f"Request URL: {url}")

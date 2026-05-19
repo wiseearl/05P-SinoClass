@@ -1,0 +1,42 @@
+RAGAS 評估結果
+整體分數: 0.8148
+評估模型: qwen3.5:4b
+Embedding 模型: nomic-embed-text
+評估端點: http://localhost:11434
+原始問題: 提供一個天氣相關的笑話
+模型回答: question: 提供一個天氣相關的笑話
+answer: **天氣笑話**  
+> **問**：為什麼雨點一走路就總是喊「別掉太快」？  
+> **答**：因為它怕自己被「風」吹得絕望，說是「雨自失去冷靜」！  
+
+**小補充**  
+> 你知道為什麼雲會經常擺脫雨？  
+> 因為它們怕自己的鞋子「水濕不行」——要保持「雲端」堅韌不拔。
+model: gpt-oss:20b
+
+各項指標:
+- answer_relevancy: 0.6295
+- conversation_quality: 1
+
+JSON:
+{
+  "sample": {
+    "user_input": "提供一個天氣相關的笑話",
+    "response": "question: 提供一個天氣相關的笑話\nanswer: **天氣笑話**  \n> **問**：為什麼雨點一走路就總是喊「別掉太快」？  \n> **答**：因為它怕自己被「風」吹得絕望，說是「雨自失去冷靜」！  \n\n**小補充**  \n> 你知道為什麼雲會經常擺脫雨？  \n> 因為它們怕自己的鞋子「水濕不行」——要保持「雲端」堅韌不拔。\nmodel: gpt-oss:20b",
+    "target_config_path": "D:\\Code\\CodingP\\05P-SinoClass\\ApikeyHidding\\config-apikeyhidding.txt",
+    "target_output_path": "D:\\Code\\CodingP\\05P-SinoClass\\ApikeyHidding\\output-oss20b.txt"
+  },
+  "evaluation": {
+    "overall_score": 0.8147734160397815,
+    "metrics": {
+      "answer_relevancy": 0.629546832079563,
+      "conversation_quality": 1
+    },
+    "model": "qwen3.5:4b",
+    "embedding_model": "nomic-embed-text",
+    "base_url": "http://localhost:11434",
+    "max_workers": 1,
+    "num_predict": 128,
+    "timeout": 600
+  }
+}

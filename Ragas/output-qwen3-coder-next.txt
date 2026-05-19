@@ -1,0 +1,44 @@
+RAGAS 評估結果
+整體分數: 0.9069
+評估模型: qwen3.5:4b
+Embedding 模型: nomic-embed-text
+評估端點: http://localhost:11434
+原始問題: 提供一個天氣相關的笑話
+模型回答: question: 提供一個天氣相關的笑話
+answer: 當然！來一個輕鬆又貼地的天氣笑話 🌦️😄：
+
+> 天氣預報員說：「今天有80%機率下雨。」  
+> 你問：「那剩下的20%是什麼？」  
+> 預報員歎口氣：「……是忘記關窗的我。」
+
+（理由：80%機率下雨是常見預報用語，而「剩下的20%」被巧妙轉換成生活窘境——關窗失誤，讓科學數字變成了自己的鍋鍋 🫠）
+
+需要更多類型的（冷、物理、南方人 vs 北方人天氣梗）？我還能「降雨」！ 😄
+model: qwen3-coder-next
+
+各項指標:
+- answer_relevancy: 0.8138
+- conversation_quality: 1
+
+JSON:
+{
+  "sample": {
+    "user_input": "提供一個天氣相關的笑話",
+    "response": "question: 提供一個天氣相關的笑話\nanswer: 當然！來一個輕鬆又貼地的天氣笑話 🌦️😄：\n\n> 天氣預報員說：「今天有80%機率下雨。」  \n> 你問：「那剩下的20%是什麼？」  \n> 預報員歎口氣：「……是忘記關窗的我。」\n\n（理由：80%機率下雨是常見預報用語，而「剩下的20%」被巧妙轉換成生活窘境——關窗失誤，讓科學數字變成了自己的鍋鍋 🫠）\n\n需要更多類型的（冷、物理、南方人 vs 北方人天氣梗）？我還能「降雨」！ 😄\nmodel: qwen3-coder-next",
+    "target_config_path": "D:\\Code\\CodingP\\05P-SinoClass\\ApikeyHidding\\config-apikeyhidding.txt",
+    "target_output_path": "D:\\Code\\CodingP\\05P-SinoClass\\ApikeyHidding\\output-qwen3-coder-next.txt"
+  },
+  "evaluation": {
+    "overall_score": 0.9069100910795427,
+    "metrics": {
+      "answer_relevancy": 0.8138201821590852,
+      "conversation_quality": 1
+    },
+    "model": "qwen3.5:4b",
+    "embedding_model": "nomic-embed-text",
+    "base_url": "http://localhost:11434",
+    "max_workers": 1,
+    "num_predict": 128,
+    "timeout": 600
+  }
+}

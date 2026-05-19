@@ -1,3 +1,4 @@
 keyfile=key-ollama.txt
-request="Hello"
-output=./output.txt
+request="提供一個天氣相關的笑話"
+model=gemma3:4b
+output=./output-gemma3-4b.txt
