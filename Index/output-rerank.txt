@@ -1,0 +1,1138 @@
+問題:
+第一部內容摘要
+
+回答:
+資料中沒有足夠資訊。
+
+RAG Level 1 Top 20 結果:
+[1] chunk_id=private-data-00000, distance=0.465085, file=private-data.pdf, page=1
+章節: 未對應章節
+章節頁碼: 1
+章節預覽: N/A
+內容:
+[法規章節] 第 1 部
+第 1 部
+
+[2] chunk_id=private-data-00032, distance=0.527790, file=private-data.pdf, page=7
+章節: 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義
+章節頁碼: 7, 73, 74
+章節預覽: 35A. 第 6A 部的釋義
+內容:
+[法規章節] 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義
+35A. 第 6A 部的釋義
+
+[3] chunk_id=private-data-00046, distance=0.531484, file=private-data.pdf, page=11
+章節: 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義
+章節頁碼: 11, 143
+章節預覽: 66C. 第 9A 部的釋義
+內容:
+[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義
+66C. 第 9A 部的釋義
+
+[4] chunk_id=private-data-00001, distance=0.566623, file=private-data.pdf, page=1
+章節: 未對應章節
+章節頁碼: 1
+章節預覽: N/A
+內容:
+[法規章節] 第 2 部
+第 2 部
+
+[5] chunk_id=private-data-00031, distance=0.567756, file=private-data.pdf, page=7
+章節: 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義
+章節頁碼: 7, 73
+章節預覽: 第 1 分部 —— 釋義
+內容:
+[法規章節] 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義
+第 1 分部 —— 釋義
+
+[6] chunk_id=private-data-00127, distance=0.567756, file=private-data.pdf, page=73
+章節: 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義
+章節頁碼: 7, 73
+章節預覽: 第 1 分部 —— 釋義
+內容:
+[法規章節] 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義
+第 1 分部 —— 釋義
+
+[7] chunk_id=private-data-00201, distance=0.585541, file=private-data.pdf, page=143
+章節: 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義
+章節頁碼: 11, 143
+章節預覽: 66C. 第 9A 部的釋義
+內容:
+[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義
+66C. 第 9A 部的釋義
+在本部中 ——
+材料 (
+指明調查 (
+66E(1) 或 (5)、66I(1) 或 66O(1) 條所訂罪行進行的調查。
+
+[8] chunk_id=private-data-00063, distance=0.585877, file=private-data.pdf, page=14
+章節: 第 1 部 導言
+章節頁碼: 4, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
+章節預覽: 4. 保障資料原則
+內容:
+[法規章節] 第 1 部 導言
+第 1 部
+導言
+1. 簡稱及生效日期
+(1) 本條例可引稱為 《個人資料( 私隱 ) 條 例 》。
+(2) 本條例自政制及內地事務局局長以憲報公告指定的日期
+起實施 。 ( 由 1997 年第 362 號法律公告修訂；由 2007
+年第 130 號法律公告修訂 )
+2. 釋義
+(1) 在本條例中，除文意另有所指外 ——
+不利行動 (
+利益、特權、責任或權益 ( 包括合法期望 ) 有不利影響的
+任何行動；
+不準確 (
+誤導性的、不完全的或過時的；
+切實可行 (
+1-1 第 1 部
+
+[9] chunk_id=private-data-00067, distance=0.585907, file=private-data.pdf, page=18
+章節: 第 1 部 導言
+章節頁碼: 4, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
+章節預覽: 4. 保障資料原則
+內容:
+[法規章節] 第 1 部 導言
+(a) 所作比較 ( 不論是全部的還是部分的 ) 是為了產生和
+核實可 ( 即時或於其後任何時間 ) 用作對任何該等資
+料當事人採取不利行動的資料的；或
+(b) 所作比較產生和核實資料，而就該資料而言可合理
+地相信將該資料 ( 即時或於其後任何時間 ) 用作對任
+何該等資料當事人採取不利行動是切實可行的； ( 由
+2012 年第 18 號第 2 條修訂 )
+核對程序要求 (
+出的要求；
+財經規管者 (
+(a) 根據 《 外匯基金條例 》( 第 66 章 ) 第 5A 條委任的金
+融管理專員；
+(b) 《證券及期貨條例》( 第 571 章 ) 第 3(1) 條提述的證券
+及期貨事務監察委員會； ( 由 2002 年第 5 號第 407
+條代替 )
+(c) 《證券及期貨條例》( 第 571 章 ) 附表 1 第 1 部第 1 條
+所指的認可結算所、認可交易所、認可控制人或認
+可投資者賠償公司； (由 2002年第 5號第 407條代替 )
+(d) 根據 《 證券及期貨條例 》( 第 571 章 ) 第 III 部獲認
+可提供該條例附表 5 所界定的自動化交易服務的
+人； ( 由 2002 年第 5 號第 407 條代替 )
+(e)-(ea) ( 由 2002 年第 5 號第 407 條廢除 )
+(f) 根據 《保險業條例》( 第 41 章 ) 第 4AAA 條設立的保
+險業監管局； ( 由 2015 年第 12 號第 133 條代替 )
+(g) 根據 《職業退休計劃條例》( 第 426 章 ) 第 5 條委任的
+職業退休計劃註冊處處長；
+(ga) 由 《強制性公積金計劃條例》( 第 485 章 ) 第 6 條設立
+的強制性公積金計劃管理局 ; ( 由 1998 年第 4 號第
+14 條增補 )
+1-9 第 1 部
+
+[10] chunk_id=private-data-00026, distance=0.590044, file=private-data.pdf, page=6
+章節: 第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義
+章節頁碼: 5, 6, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55
+章節預覽: 從查閱資料要求
+內容:
+[法規章節] 第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義
+21. 拒絕依從查閱資料要求的通知
+
+[11] chunk_id=private-data-00045, distance=0.591815, file=private-data.pdf, page=11
+章節: 第 9 部 罪行及補償 > 第 1 分部 —— 釋義
+章節頁碼: 11, 143
+章節預覽: 第 1 分部 —— 釋義
+內容:
+[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義
+第 1 分部 —— 釋義
+
+[12] chunk_id=private-data-00200, distance=0.591815, file=private-data.pdf, page=143
+章節: 第 9 部 罪行及補償 > 第 1 分部 —— 釋義
+章節頁碼: 11, 143
+章節預覽: 第 1 分部 —— 釋義
+內容:
+[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義
+第 1 分部 —— 釋義
+
+[13] chunk_id=private-data-00025, distance=0.592065, file=private-data.pdf, page=5
+章節: 第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義
+章節頁碼: 5, 6, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55
+章節預覽: 從查閱資料要求
+內容:
+[法規章節] 第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義
+17A. 第 5 部的釋義
+18. 查閱資料要求
+19. 依從查閱資料要求
+20. 資料使用者須在或可在何種情況下拒絕依
+從查閱資料要求
+
+[14] chunk_id=private-data-00069, distance=0.601775, file=private-data.pdf, page=20
+章節: 第 1 部 導言
+章節頁碼: 4, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
+章節預覽: 4. 保障資料原則
+內容:
+[法規章節] 第 1 部 導言
+資料 (
+並包括個人身分標識符；
+資料使用者 (
+人或與其他人共同控制該資料的收集、持有、處理或使
+用的人； ( 由 2012 年第 18 號第 2 條修訂 )
+資料使用者申報表 (
+專員並 ( 如適用的話 ) 根據第 14
+2012 年第 18 號第 3 條代替 )
+資料當事人 (
+事人的個人； ( 由 2012 年第 18 號第 2 條修訂 )
+僱用 (
+18 號第 42 條修訂 )
+(a) 僱用合約或學徒訓練合約；或
+(b) 由個人親自進行任何工作或勞動的合約，
+而相關詞句均須據此解釋； ( 由 2014 年第 18 號第 42 條
+修訂 )
+實務守則 (
+(a) 標準；
+(b) 規格；及
+(c) 其他文件形式的實務性的指引；
+調查 (
+調查； ( 由 2021 年第 32 號第 3 條修訂 )
+諮詢委員會 (
+隱 ) 諮詢委員會； ( 由 2012 年第 18 號第 3 條修訂 )
+變更通知 (
+用的話 ) 根據第 14
+18 號第 3 條增補 )
+(2) ( 由 2012 年第 18 號第 3 條廢除 )
+1-13 第 1 部
+
+[15] chunk_id=private-data-00254, distance=0.615258, file=private-data.pdf, page=185
+章節: 第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情
+章節頁碼: 184, 185
+章節預覽: 手令只授權在本手令發出日期後的 14 日內行使該權力。
+內容:
+[法規章節] 第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情
+.......... 年.......... 月.......... 日
+( 簽署 ) 裁判官
+* 刪去不適用者。
+( 由 2021 年第 32 號第 13 條修訂 )
+
+[16] chunk_id=private-data-00047, distance=0.615322, file=private-data.pdf, page=11
+章節: 第 9 部 罪行及補償 > 第 2 分部 —— 要求提供材料及協助 66D. 專員要求提供材料及協助的權力
+章節頁碼: 11, 143, 144, 145, 146, 147
+章節預覽: 66F. 在法律程序中使用導致入罪的證據
+內容:
+[法規章節] 第 9 部 罪行及補償 > 第 2 分部 —— 要求提供材料及協助 66D. 專員要求提供材料及協助的權力
+第 2 分部 —— 要求提供材料及協助
+66D. 專員要求提供材料及協助的權力
+66E. 關於第 66D 條的罪行
+66F. 在法律程序中使用導致入罪的證據
+
+[17] chunk_id=private-data-00096, distance=0.624013, file=private-data.pdf, page=46
+章節: 第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料
+章節頁碼: 5, 46
+章節預覽: 第 1 分部 —— 查閱個人資料
+內容:
+[法規章節] 第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料
+第 1 分部 —— 查閱個人資料
+( 由 2012 年第 18 號第 10 條增補 )
+
+[18] chunk_id=private-data-00007, distance=0.635999, file=private-data.pdf, page=2
+章節: 未對應章節
+章節頁碼: 2
+章節預覽: N/A
+內容:
+[法規章節] 第 7 部
+第 7 部
+
+[19] chunk_id=private-data-00198, distance=0.637282, file=private-data.pdf, page=142
+章節: 第 9 部 罪行及補償
+章節頁碼: 10, 11, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143
+章節預覽: 64. 在未獲同意下披露個人資料屬罪行
+內容:
+[法規章節] 第 9 部 罪行及補償
+答辯人 (
+( 由 2012 年第 18 號第 39 條增補 )
+9-19 第 9 部
+
+[20] chunk_id=private-data-00072, distance=0.638087, file=private-data.pdf, page=23
+章節: 第 1 部 導言
+章節頁碼: 4, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
+章節預覽: 4. 保障資料原則
+內容:
+[法規章節] 第 1 部 導言
+(12) 如某人純粹代另一人持有、處理或使用的任何個人資料，
+而該首述的人並非為其任何本身目的而持有、處理或使
+用 ( 視屬何情況而定 ) 該資料，則 ( 但亦只有在此情況下 )
+該首述的人就該個人資料而言不算是資料使用者。 ( 由
+2012 年第 18 號第 2 條修訂 )
+(13) 為免生疑問，現聲明︰就本條例而言，如一個人的行為
+已使他或可以使他根據不時生效的香港賽馬會賽事規例
+及董事局指示成為被吊銷資格的人或被暫時吊銷資格的
+人 ， 則該等行為屬嚴重不當的行為 。 ( 由 1999 年第 34
+號第 3 條修訂 )
+( 編輯修訂 ——2013 年第 1 號編輯修訂紀錄 )
+1-19 第 1 部
+
+RAG Level 2 Top 4 向量比對結果:
+[1] chunk_id=private-data-00000, rerank_score=0.767457, level1_rank=1, level1_distance=0.465085, file=private-data.pdf, page=1
+章節: 未對應章節
+內容:
+[法規章節] 第 1 部
+第 1 部
+
+[2] chunk_id=private-data-00032, rerank_score=0.736105, level1_rank=2, level1_distance=0.527790, file=private-data.pdf, page=7
+章節: 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義
+內容:
+[法規章節] 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義
+35A. 第 6A 部的釋義
+
+[3] chunk_id=private-data-00046, rerank_score=0.734258, level1_rank=3, level1_distance=0.531484, file=private-data.pdf, page=11
+章節: 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義
+內容:
+[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義
+66C. 第 9A 部的釋義
+
+[4] chunk_id=private-data-00001, rerank_score=0.716688, level1_rank=4, level1_distance=0.566623, file=private-data.pdf, page=1
+章節: 未對應章節
+內容:
+[法規章節] 第 2 部
+第 2 部
+
+JSON:
+{
+  "config_path": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\config-req-rerank.txt",
+  "index_path": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\db\\chapter-index.json",
+  "collection": "private-data-chapter-index",
+  "question": "第一部內容摘要",
+  "answer": "資料中沒有足夠資訊。",
+  "base_url": "http://localhost:11434",
+  "model": "qwen3.5:4b",
+  "embedding_model": "nomic-embed-text",
+  "level1_hits": [
+    {
+      "level1_rank": 1,
+      "chunk_id": "private-data-00000",
+      "distance": 0.46508514881134033,
+      "metadata": {
+        "page": 1,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 5,
+        "chunk_index": 0,
+        "chapter": "第 1 部",
+        "file_name": "private-data.pdf",
+        "start_char": 0
+      },
+      "chapter": {},
+      "document": "[法規章節] 第 1 部\n第 1 部"
+    },
+    {
+      "level1_rank": 2,
+      "chunk_id": "private-data-00032",
+      "distance": 0.5277902483940125,
+      "metadata": {
+        "file_name": "private-data.pdf",
+        "chunk_index": 32,
+        "end_char": 14,
+        "page": 7,
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "start_char": 0
+      },
+      "chapter": {
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          7,
+          73,
+          74
+        ],
+        "chunk_ids": [
+          "private-data-00032",
+          "private-data-00128",
+          "private-data-00129"
+        ],
+        "chunk_count": 3,
+        "preview": "35A. 第 6A 部的釋義",
+        "index_order": 13
+      },
+      "document": "[法規章節] 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義\n35A. 第 6A 部的釋義"
+    },
+    {
+      "level1_rank": 3,
+      "chunk_id": "private-data-00046",
+      "distance": 0.5314844846725464,
+      "metadata": {
+        "start_char": 0,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "chunk_index": 46,
+        "end_char": 14,
+        "file_name": "private-data.pdf",
+        "page": 11
+      },
+      "chapter": {
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          11,
+          143
+        ],
+        "chunk_ids": [
+          "private-data-00046",
+          "private-data-00201"
+        ],
+        "chunk_count": 2,
+        "preview": "66C. 第 9A 部的釋義",
+        "index_order": 24
+      },
+      "document": "[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義\n66C. 第 9A 部的釋義"
+    },
+    {
+      "level1_rank": 4,
+      "chunk_id": "private-data-00001",
+      "distance": 0.5666234493255615,
+      "metadata": {
+        "end_char": 5,
+        "chapter": "第 2 部",
+        "file_name": "private-data.pdf",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "chunk_index": 1,
+        "page": 1,
+        "start_char": 0
+      },
+      "chapter": {},
+      "document": "[法規章節] 第 2 部\n第 2 部"
+    },
+    {
+      "level1_rank": 5,
+      "chunk_id": "private-data-00031",
+      "distance": 0.5677560567855835,
+      "metadata": {
+        "start_char": 0,
+        "file_name": "private-data.pdf",
+        "chunk_index": 31,
+        "end_char": 12,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義",
+        "page": 7
+      },
+      "chapter": {
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          7,
+          73
+        ],
+        "chunk_ids": [
+          "private-data-00031",
+          "private-data-00127"
+        ],
+        "chunk_count": 2,
+        "preview": "第 1 分部 —— 釋義",
+        "index_order": 12
+      },
+      "document": "[法規章節] 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義\n第 1 分部 —— 釋義"
+    },
+    {
+      "level1_rank": 6,
+      "chunk_id": "private-data-00127",
+      "distance": 0.5677560567855835,
+      "metadata": {
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義",
+        "page": 73,
+        "file_name": "private-data.pdf",
+        "start_char": 0,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 12,
+        "chunk_index": 127
+      },
+      "chapter": {
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          7,
+          73
+        ],
+        "chunk_ids": [
+          "private-data-00031",
+          "private-data-00127"
+        ],
+        "chunk_count": 2,
+        "preview": "第 1 分部 —— 釋義",
+        "index_order": 12
+      },
+      "document": "[法規章節] 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義\n第 1 分部 —— 釋義"
+    },
+    {
+      "level1_rank": 7,
+      "chunk_id": "private-data-00201",
+      "distance": 0.5855411291122437,
+      "metadata": {
+        "page": 143,
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "chunk_index": 201,
+        "file_name": "private-data.pdf",
+        "start_char": 0,
+        "end_char": 75
+      },
+      "chapter": {
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          11,
+          143
+        ],
+        "chunk_ids": [
+          "private-data-00046",
+          "private-data-00201"
+        ],
+        "chunk_count": 2,
+        "preview": "66C. 第 9A 部的釋義",
+        "index_order": 24
+      },
+      "document": "[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義\n66C. 第 9A 部的釋義\n在本部中 ——\n材料 (\n指明調查 (\n66E(1) 或 (5)、66I(1) 或 66O(1) 條所訂罪行進行的調查。"
+    },
+    {
+      "level1_rank": 8,
+      "chunk_id": "private-data-00063",
+      "distance": 0.5858765840530396,
+      "metadata": {
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 242,
+        "chapter": "第 1 部 導言",
+        "file_name": "private-data.pdf",
+        "start_char": 0,
+        "page": 14,
+        "chunk_index": 63
+      },
+      "chapter": {
+        "chapter": "第 1 部 導言",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          4,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "chunk_ids": [
+          "private-data-00019",
+          "private-data-00063",
+          "private-data-00064",
+          "private-data-00065",
+          "private-data-00066",
+          "private-data-00067",
+          "private-data-00068",
+          "private-data-00069",
+          "private-data-00070",
+          "private-data-00071",
+          "private-data-00072",
+          "private-data-00073"
+        ],
+        "chunk_count": 12,
+        "preview": "4. 保障資料原則",
+        "index_order": 2
+      },
+      "document": "[法規章節] 第 1 部 導言\n第 1 部\n導言\n1. 簡稱及生效日期\n(1) 本條例可引稱為 《個人資料( 私隱 ) 條 例 》。\n(2) 本條例自政制及內地事務局局長以憲報公告指定的日期\n起實施 。 ( 由 1997 年第 362 號法律公告修訂；由 2007\n年第 130 號法律公告修訂 )\n2. 釋義\n(1) 在本條例中，除文意另有所指外 ——\n不利行動 (\n利益、特權、責任或權益 ( 包括合法期望 ) 有不利影響的\n任何行動；\n不準確 (\n誤導性的、不完全的或過時的；\n切實可行 (\n1-1 第 1 部"
+    },
+    {
+      "level1_rank": 9,
+      "chunk_id": "private-data-00067",
+      "distance": 0.5859074592590332,
+      "metadata": {
+        "chunk_index": 67,
+        "end_char": 767,
+        "start_char": 0,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "page": 18,
+        "chapter": "第 1 部 導言"
+      },
+      "chapter": {
+        "chapter": "第 1 部 導言",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          4,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "chunk_ids": [
+          "private-data-00019",
+          "private-data-00063",
+          "private-data-00064",
+          "private-data-00065",
+          "private-data-00066",
+          "private-data-00067",
+          "private-data-00068",
+          "private-data-00069",
+          "private-data-00070",
+          "private-data-00071",
+          "private-data-00072",
+          "private-data-00073"
+        ],
+        "chunk_count": 12,
+        "preview": "4. 保障資料原則",
+        "index_order": 2
+      },
+      "document": "[法規章節] 第 1 部 導言\n(a) 所作比較 ( 不論是全部的還是部分的 ) 是為了產生和\n核實可 ( 即時或於其後任何時間 ) 用作對任何該等資\n料當事人採取不利行動的資料的；或\n(b) 所作比較產生和核實資料，而就該資料而言可合理\n地相信將該資料 ( 即時或於其後任何時間 ) 用作對任\n何該等資料當事人採取不利行動是切實可行的； ( 由\n2012 年第 18 號第 2 條修訂 )\n核對程序要求 (\n出的要求；\n財經規管者 (\n(a) 根據 《 外匯基金條例 》( 第 66 章 ) 第 5A 條委任的金\n融管理專員；\n(b) 《證券及期貨條例》( 第 571 章 ) 第 3(1) 條提述的證券\n及期貨事務監察委員會； ( 由 2002 年第 5 號第 407\n條代替 )\n(c) 《證券及期貨條例》( 第 571 章 ) 附表 1 第 1 部第 1 條\n所指的認可結算所、認可交易所、認可控制人或認\n可投資者賠償公司； (由 2002年第 5號第 407條代替 )\n(d) 根據 《 證券及期貨條例 》( 第 571 章 ) 第 III 部獲認\n可提供該條例附表 5 所界定的自動化交易服務的\n人； ( 由 2002 年第 5 號第 407 條代替 )\n(e)-(ea) ( 由 2002 年第 5 號第 407 條廢除 )\n(f) 根據 《保險業條例》( 第 41 章 ) 第 4AAA 條設立的保\n險業監管局； ( 由 2015 年第 12 號第 133 條代替 )\n(g) 根據 《職業退休計劃條例》( 第 426 章 ) 第 5 條委任的\n職業退休計劃註冊處處長；\n(ga) 由 《強制性公積金計劃條例》( 第 485 章 ) 第 6 條設立\n的強制性公積金計劃管理局 ; ( 由 1998 年第 4 號第\n14 條增補 )\n1-9 第 1 部"
+    },
+    {
+      "level1_rank": 10,
+      "chunk_id": "private-data-00026",
+      "distance": 0.5900435447692871,
+      "metadata": {
+        "end_char": 17,
+        "page": 6,
+        "chapter": "第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "chunk_index": 26,
+        "start_char": 0
+      },
+      "chapter": {
+        "chapter": "第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          5,
+          6,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ],
+        "chunk_ids": [
+          "private-data-00025",
+          "private-data-00026",
+          "private-data-00097",
+          "private-data-00098",
+          "private-data-00099",
+          "private-data-00100",
+          "private-data-00101",
+          "private-data-00102",
+          "private-data-00103",
+          "private-data-00104",
+          "private-data-00105",
+          "private-data-00106"
+        ],
+        "chunk_count": 12,
+        "preview": "從查閱資料要求",
+        "index_order": 8
+      },
+      "document": "[法規章節] 第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義\n21. 拒絕依從查閱資料要求的通知"
+    },
+    {
+      "level1_rank": 11,
+      "chunk_id": "private-data-00045",
+      "distance": 0.5918152332305908,
+      "metadata": {
+        "chunk_index": 45,
+        "file_name": "private-data.pdf",
+        "end_char": 12,
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義",
+        "start_char": 0,
+        "page": 11,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf"
+      },
+      "chapter": {
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          11,
+          143
+        ],
+        "chunk_ids": [
+          "private-data-00045",
+          "private-data-00200"
+        ],
+        "chunk_count": 2,
+        "preview": "第 1 分部 —— 釋義",
+        "index_order": 23
+      },
+      "document": "[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義\n第 1 分部 —— 釋義"
+    },
+    {
+      "level1_rank": 12,
+      "chunk_id": "private-data-00200",
+      "distance": 0.5918152332305908,
+      "metadata": {
+        "chunk_index": 200,
+        "page": 143,
+        "end_char": 12,
+        "start_char": 0,
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義",
+        "file_name": "private-data.pdf",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf"
+      },
+      "chapter": {
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          11,
+          143
+        ],
+        "chunk_ids": [
+          "private-data-00045",
+          "private-data-00200"
+        ],
+        "chunk_count": 2,
+        "preview": "第 1 分部 —— 釋義",
+        "index_order": 23
+      },
+      "document": "[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義\n第 1 分部 —— 釋義"
+    },
+    {
+      "level1_rank": 13,
+      "chunk_id": "private-data-00025",
+      "distance": 0.5920654535293579,
+      "metadata": {
+        "page": 5,
+        "chunk_index": 25,
+        "end_char": 68,
+        "start_char": 0,
+        "chapter": "第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf"
+      },
+      "chapter": {
+        "chapter": "第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          5,
+          6,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ],
+        "chunk_ids": [
+          "private-data-00025",
+          "private-data-00026",
+          "private-data-00097",
+          "private-data-00098",
+          "private-data-00099",
+          "private-data-00100",
+          "private-data-00101",
+          "private-data-00102",
+          "private-data-00103",
+          "private-data-00104",
+          "private-data-00105",
+          "private-data-00106"
+        ],
+        "chunk_count": 12,
+        "preview": "從查閱資料要求",
+        "index_order": 8
+      },
+      "document": "[法規章節] 第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義\n17A. 第 5 部的釋義\n18. 查閱資料要求\n19. 依從查閱資料要求\n20. 資料使用者須在或可在何種情況下拒絕依\n從查閱資料要求"
+    },
+    {
+      "level1_rank": 14,
+      "chunk_id": "private-data-00069",
+      "distance": 0.601775050163269,
+      "metadata": {
+        "end_char": 475,
+        "start_char": 0,
+        "file_name": "private-data.pdf",
+        "chunk_index": 69,
+        "page": 20,
+        "chapter": "第 1 部 導言",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf"
+      },
+      "chapter": {
+        "chapter": "第 1 部 導言",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          4,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "chunk_ids": [
+          "private-data-00019",
+          "private-data-00063",
+          "private-data-00064",
+          "private-data-00065",
+          "private-data-00066",
+          "private-data-00067",
+          "private-data-00068",
+          "private-data-00069",
+          "private-data-00070",
+          "private-data-00071",
+          "private-data-00072",
+          "private-data-00073"
+        ],
+        "chunk_count": 12,
+        "preview": "4. 保障資料原則",
+        "index_order": 2
+      },
+      "document": "[法規章節] 第 1 部 導言\n資料 (\n並包括個人身分標識符；\n資料使用者 (\n人或與其他人共同控制該資料的收集、持有、處理或使\n用的人； ( 由 2012 年第 18 號第 2 條修訂 )\n資料使用者申報表 (\n專員並 ( 如適用的話 ) 根據第 14\n2012 年第 18 號第 3 條代替 )\n資料當事人 (\n事人的個人； ( 由 2012 年第 18 號第 2 條修訂 )\n僱用 (\n18 號第 42 條修訂 )\n(a) 僱用合約或學徒訓練合約；或\n(b) 由個人親自進行任何工作或勞動的合約，\n而相關詞句均須據此解釋； ( 由 2014 年第 18 號第 42 條\n修訂 )\n實務守則 (\n(a) 標準；\n(b) 規格；及\n(c) 其他文件形式的實務性的指引；\n調查 (\n調查； ( 由 2021 年第 32 號第 3 條修訂 )\n諮詢委員會 (\n隱 ) 諮詢委員會； ( 由 2012 年第 18 號第 3 條修訂 )\n變更通知 (\n用的話 ) 根據第 14\n18 號第 3 條增補 )\n(2) ( 由 2012 年第 18 號第 3 條廢除 )\n1-13 第 1 部"
+    },
+    {
+      "level1_rank": 15,
+      "chunk_id": "private-data-00254",
+      "distance": 0.6152575016021729,
+      "metadata": {
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "start_char": 0,
+        "end_char": 84,
+        "chunk_index": 254,
+        "file_name": "private-data.pdf",
+        "page": 185,
+        "chapter": "第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情"
+      },
+      "chapter": {
+        "chapter": "第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          184,
+          185
+        ],
+        "chunk_ids": [
+          "private-data-00253",
+          "private-data-00254"
+        ],
+        "chunk_count": 2,
+        "preview": "手令只授權在本手令發出日期後的 14 日內行使該權力。",
+        "index_order": 54
+      },
+      "document": "[法規章節] 第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情\n.......... 年.......... 月.......... 日\n( 簽署 ) 裁判官\n* 刪去不適用者。\n( 由 2021 年第 32 號第 13 條修訂 )"
+    },
+    {
+      "level1_rank": 16,
+      "chunk_id": "private-data-00047",
+      "distance": 0.6153222322463989,
+      "metadata": {
+        "page": 11,
+        "end_char": 78,
+        "chunk_index": 47,
+        "chapter": "第 9 部 罪行及補償 > 第 2 分部 —— 要求提供材料及協助 66D. 專員要求提供材料及協助的權力",
+        "start_char": 0,
+        "file_name": "private-data.pdf",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf"
+      },
+      "chapter": {
+        "chapter": "第 9 部 罪行及補償 > 第 2 分部 —— 要求提供材料及協助 66D. 專員要求提供材料及協助的權力",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          11,
+          143,
+          144,
+          145,
+          146,
+          147
+        ],
+        "chunk_ids": [
+          "private-data-00047",
+          "private-data-00202",
+          "private-data-00203",
+          "private-data-00204",
+          "private-data-00205",
+          "private-data-00206"
+        ],
+        "chunk_count": 6,
+        "preview": "66F. 在法律程序中使用導致入罪的證據",
+        "index_order": 25
+      },
+      "document": "[法規章節] 第 9 部 罪行及補償 > 第 2 分部 —— 要求提供材料及協助 66D. 專員要求提供材料及協助的權力\n第 2 分部 —— 要求提供材料及協助\n66D. 專員要求提供材料及協助的權力\n66E. 關於第 66D 條的罪行\n66F. 在法律程序中使用導致入罪的證據"
+    },
+    {
+      "level1_rank": 17,
+      "chunk_id": "private-data-00096",
+      "distance": 0.6240125298500061,
+      "metadata": {
+        "end_char": 43,
+        "page": 46,
+        "start_char": 0,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "chapter": "第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料",
+        "chunk_index": 96
+      },
+      "chapter": {
+        "chapter": "第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          5,
+          46
+        ],
+        "chunk_ids": [
+          "private-data-00024",
+          "private-data-00096"
+        ],
+        "chunk_count": 2,
+        "preview": "第 1 分部 —— 查閱個人資料",
+        "index_order": 7
+      },
+      "document": "[法規章節] 第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料\n第 1 分部 —— 查閱個人資料\n( 由 2012 年第 18 號第 10 條增補 )"
+    },
+    {
+      "level1_rank": 18,
+      "chunk_id": "private-data-00007",
+      "distance": 0.6359990835189819,
+      "metadata": {
+        "end_char": 5,
+        "file_name": "private-data.pdf",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "start_char": 0,
+        "page": 2,
+        "chunk_index": 7,
+        "chapter": "第 7 部"
+      },
+      "chapter": {},
+      "document": "[法規章節] 第 7 部\n第 7 部"
+    },
+    {
+      "level1_rank": 19,
+      "chunk_id": "private-data-00198",
+      "distance": 0.6372815370559692,
+      "metadata": {
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 43,
+        "start_char": 0,
+        "page": 142,
+        "chapter": "第 9 部 罪行及補償",
+        "file_name": "private-data.pdf",
+        "chunk_index": 198
+      },
+      "chapter": {
+        "chapter": "第 9 部 罪行及補償",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          10,
+          11,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143
+        ],
+        "chunk_ids": [
+          "private-data-00043",
+          "private-data-00044",
+          "private-data-00189",
+          "private-data-00190",
+          "private-data-00191",
+          "private-data-00192",
+          "private-data-00193",
+          "private-data-00194",
+          "private-data-00195",
+          "private-data-00196",
+          "private-data-00197",
+          "private-data-00198",
+          "private-data-00199"
+        ],
+        "chunk_count": 13,
+        "preview": "64. 在未獲同意下披露個人資料屬罪行",
+        "index_order": 22
+      },
+      "document": "[法規章節] 第 9 部 罪行及補償\n答辯人 (\n( 由 2012 年第 18 號第 39 條增補 )\n9-19 第 9 部"
+    },
+    {
+      "level1_rank": 20,
+      "chunk_id": "private-data-00072",
+      "distance": 0.6380867958068848,
+      "metadata": {
+        "end_char": 304,
+        "chapter": "第 1 部 導言",
+        "chunk_index": 72,
+        "page": 23,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "start_char": 0,
+        "file_name": "private-data.pdf"
+      },
+      "chapter": {
+        "chapter": "第 1 部 導言",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          4,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "chunk_ids": [
+          "private-data-00019",
+          "private-data-00063",
+          "private-data-00064",
+          "private-data-00065",
+          "private-data-00066",
+          "private-data-00067",
+          "private-data-00068",
+          "private-data-00069",
+          "private-data-00070",
+          "private-data-00071",
+          "private-data-00072",
+          "private-data-00073"
+        ],
+        "chunk_count": 12,
+        "preview": "4. 保障資料原則",
+        "index_order": 2
+      },
+      "document": "[法規章節] 第 1 部 導言\n(12) 如某人純粹代另一人持有、處理或使用的任何個人資料，\n而該首述的人並非為其任何本身目的而持有、處理或使\n用 ( 視屬何情況而定 ) 該資料，則 ( 但亦只有在此情況下 )\n該首述的人就該個人資料而言不算是資料使用者。 ( 由\n2012 年第 18 號第 2 條修訂 )\n(13) 為免生疑問，現聲明︰就本條例而言，如一個人的行為\n已使他或可以使他根據不時生效的香港賽馬會賽事規例\n及董事局指示成為被吊銷資格的人或被暫時吊銷資格的\n人 ， 則該等行為屬嚴重不當的行為 。 ( 由 1999 年第 34\n號第 3 條修訂 )\n( 編輯修訂 ——2013 年第 1 號編輯修訂紀錄 )\n1-19 第 1 部"
+    }
+  ],
+  "level2_hits": [
+    {
+      "level2_rank": 1,
+      "level1_rank": 1,
+      "chunk_id": "private-data-00000",
+      "distance": 0.46508514881134033,
+      "rerank_score": 0.7674573662310527,
+      "metadata": {
+        "page": 1,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 5,
+        "chunk_index": 0,
+        "chapter": "第 1 部",
+        "file_name": "private-data.pdf",
+        "start_char": 0
+      },
+      "chapter": {},
+      "document": "[法規章節] 第 1 部\n第 1 部"
+    },
+    {
+      "level2_rank": 2,
+      "level1_rank": 2,
+      "chunk_id": "private-data-00032",
+      "distance": 0.5277902483940125,
+      "rerank_score": 0.7361048024043283,
+      "metadata": {
+        "file_name": "private-data.pdf",
+        "chunk_index": 32,
+        "end_char": 14,
+        "page": 7,
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "start_char": 0
+      },
+      "chapter": {
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          7,
+          73,
+          74
+        ],
+        "chunk_ids": [
+          "private-data-00032",
+          "private-data-00128",
+          "private-data-00129"
+        ],
+        "chunk_count": 3,
+        "preview": "35A. 第 6A 部的釋義",
+        "index_order": 13
+      },
+      "document": "[法規章節] 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義\n35A. 第 6A 部的釋義"
+    },
+    {
+      "level2_rank": 3,
+      "level1_rank": 3,
+      "chunk_id": "private-data-00046",
+      "distance": 0.5314844846725464,
+      "rerank_score": 0.734257668137739,
+      "metadata": {
+        "start_char": 0,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "chunk_index": 46,
+        "end_char": 14,
+        "file_name": "private-data.pdf",
+        "page": 11
+      },
+      "chapter": {
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          11,
+          143
+        ],
+        "chunk_ids": [
+          "private-data-00046",
+          "private-data-00201"
+        ],
+        "chunk_count": 2,
+        "preview": "66C. 第 9A 部的釋義",
+        "index_order": 24
+      },
+      "document": "[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義\n66C. 第 9A 部的釋義"
+    },
+    {
+      "level2_rank": 4,
+      "level1_rank": 4,
+      "chunk_id": "private-data-00001",
+      "distance": 0.5666234493255615,
+      "rerank_score": 0.7166879632009409,
+      "metadata": {
+        "end_char": 5,
+        "chapter": "第 2 部",
+        "file_name": "private-data.pdf",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "chunk_index": 1,
+        "page": 1,
+        "start_char": 0
+      },
+      "chapter": {},
+      "document": "[法規章節] 第 2 部\n第 2 部"
+    }
+  ]
+}

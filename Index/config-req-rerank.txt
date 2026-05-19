@@ -1,0 +1,11 @@
+question:第一部內容摘要
+model=qwen3.5:4b
+embedding_model=nomic-embed-text
+base_url=http://localhost:11434
+collection=private-data-chapter-index
+database_path=./db/data.db
+index_path=./db/chapter-index.json
+output=output-rerank.txt
+level1_top_k=20
+level2_top_k=4
+timeout=300
