@@ -1,0 +1,5 @@
+M = 16
+efConstruction = 150
+efSearch = 75
+Top-K = 5
+database_path=./db/data.db

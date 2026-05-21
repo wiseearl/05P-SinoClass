@@ -306,13 +306,13 @@ JSON:
       "chunk_id": "private-data-00000",
       "distance": 0.46508514881134033,
       "metadata": {
-        "page": 1,
         "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
-        "end_char": 5,
         "chunk_index": 0,
-        "chapter": "第 1 部",
+        "page": 1,
+        "end_char": 5,
+        "start_char": 0,
         "file_name": "private-data.pdf",
-        "start_char": 0
+        "chapter": "第 1 部"
       },
       "chapter": {},
       "document": "[法規章節] 第 1 部\n第 1 部"
@@ -322,12 +322,12 @@ JSON:
       "chunk_id": "private-data-00032",
       "distance": 0.5277902483940125,
       "metadata": {
-        "file_name": "private-data.pdf",
-        "chunk_index": 32,
         "end_char": 14,
+        "chunk_index": 32,
         "page": 7,
         "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義",
         "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
         "start_char": 0
       },
       "chapter": {
@@ -355,13 +355,13 @@ JSON:
       "chunk_id": "private-data-00046",
       "distance": 0.5314844846725464,
       "metadata": {
-        "start_char": 0,
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
-        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
-        "chunk_index": 46,
-        "end_char": 14,
         "file_name": "private-data.pdf",
-        "page": 11
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "end_char": 14,
+        "page": 11,
+        "chunk_index": 46,
+        "start_char": 0,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf"
       },
       "chapter": {
         "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
@@ -386,13 +386,13 @@ JSON:
       "chunk_id": "private-data-00001",
       "distance": 0.5666234493255615,
       "metadata": {
-        "end_char": 5,
-        "chapter": "第 2 部",
-        "file_name": "private-data.pdf",
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
-        "chunk_index": 1,
         "page": 1,
-        "start_char": 0
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 5,
+        "file_name": "private-data.pdf",
+        "start_char": 0,
+        "chunk_index": 1,
+        "chapter": "第 2 部"
       },
       "chapter": {},
       "document": "[法規章節] 第 2 部\n第 2 部"
@@ -402,13 +402,13 @@ JSON:
       "chunk_id": "private-data-00031",
       "distance": 0.5677560567855835,
       "metadata": {
-        "start_char": 0,
+        "end_char": 12,
+        "page": 7,
         "file_name": "private-data.pdf",
         "chunk_index": 31,
-        "end_char": 12,
         "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
         "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義",
-        "page": 7
+        "start_char": 0
       },
       "chapter": {
         "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義",
@@ -433,13 +433,13 @@ JSON:
       "chunk_id": "private-data-00127",
       "distance": 0.5677560567855835,
       "metadata": {
-        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義",
-        "page": 73,
         "file_name": "private-data.pdf",
+        "page": 73,
+        "end_char": 12,
         "start_char": 0,
         "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
-        "end_char": 12,
-        "chunk_index": 127
+        "chunk_index": 127,
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義"
       },
       "chapter": {
         "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義",
@@ -464,13 +464,13 @@ JSON:
       "chunk_id": "private-data-00201",
       "distance": 0.5855411291122437,
       "metadata": {
-        "page": 143,
-        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
         "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 75,
         "chunk_index": 201,
-        "file_name": "private-data.pdf",
+        "page": 143,
         "start_char": 0,
-        "end_char": 75
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "file_name": "private-data.pdf"
       },
       "chapter": {
         "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
@@ -495,13 +495,13 @@ JSON:
       "chunk_id": "private-data-00063",
       "distance": 0.5858765840530396,
       "metadata": {
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
         "end_char": 242,
-        "chapter": "第 1 部 導言",
-        "file_name": "private-data.pdf",
         "start_char": 0,
         "page": 14,
-        "chunk_index": 63
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "chunk_index": 63,
+        "chapter": "第 1 部 導言",
+        "file_name": "private-data.pdf"
       },
       "chapter": {
         "chapter": "第 1 部 導言",
@@ -546,12 +546,12 @@ JSON:
       "chunk_id": "private-data-00067",
       "distance": 0.5859074592590332,
       "metadata": {
-        "chunk_index": 67,
-        "end_char": 767,
-        "start_char": 0,
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
         "file_name": "private-data.pdf",
+        "start_char": 0,
+        "chunk_index": 67,
         "page": 18,
+        "end_char": 767,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
         "chapter": "第 1 部 導言"
       },
       "chapter": {
@@ -597,13 +597,13 @@ JSON:
       "chunk_id": "private-data-00026",
       "distance": 0.5900435447692871,
       "metadata": {
-        "end_char": 17,
-        "page": 6,
-        "chapter": "第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義",
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
         "file_name": "private-data.pdf",
+        "start_char": 0,
         "chunk_index": 26,
-        "start_char": 0
+        "end_char": 17,
+        "chapter": "第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義",
+        "page": 6,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf"
       },
       "chapter": {
         "chapter": "第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義",
@@ -648,13 +648,13 @@ JSON:
       "chunk_id": "private-data-00045",
       "distance": 0.5918152332305908,
       "metadata": {
-        "chunk_index": 45,
-        "file_name": "private-data.pdf",
         "end_char": 12,
-        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義",
+        "file_name": "private-data.pdf",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
         "start_char": 0,
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義",
         "page": 11,
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf"
+        "chunk_index": 45
       },
       "chapter": {
         "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義",
@@ -679,13 +679,13 @@ JSON:
       "chunk_id": "private-data-00200",
       "distance": 0.5918152332305908,
       "metadata": {
-        "chunk_index": 200,
-        "page": 143,
-        "end_char": 12,
-        "start_char": 0,
-        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義",
         "file_name": "private-data.pdf",
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf"
+        "start_char": 0,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 12,
+        "page": 143,
+        "chunk_index": 200,
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義"
       },
       "chapter": {
         "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義",
@@ -710,13 +710,13 @@ JSON:
       "chunk_id": "private-data-00025",
       "distance": 0.5920654535293579,
       "metadata": {
-        "page": 5,
-        "chunk_index": 25,
-        "end_char": 68,
-        "start_char": 0,
         "chapter": "第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義",
         "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
-        "file_name": "private-data.pdf"
+        "page": 5,
+        "start_char": 0,
+        "file_name": "private-data.pdf",
+        "end_char": 68,
+        "chunk_index": 25
       },
       "chapter": {
         "chapter": "第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料 > 17A. 第 5 部的釋義",
@@ -761,13 +761,13 @@ JSON:
       "chunk_id": "private-data-00069",
       "distance": 0.601775050163269,
       "metadata": {
-        "end_char": 475,
-        "start_char": 0,
-        "file_name": "private-data.pdf",
-        "chunk_index": 69,
         "page": 20,
-        "chapter": "第 1 部 導言",
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf"
+        "start_char": 0,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 475,
+        "chunk_index": 69,
+        "file_name": "private-data.pdf",
+        "chapter": "第 1 部 導言"
       },
       "chapter": {
         "chapter": "第 1 部 導言",
@@ -812,13 +812,13 @@ JSON:
       "chunk_id": "private-data-00254",
       "distance": 0.6152575016021729,
       "metadata": {
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
-        "start_char": 0,
-        "end_char": 84,
-        "chunk_index": 254,
-        "file_name": "private-data.pdf",
+        "chapter": "第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情",
         "page": 185,
-        "chapter": "第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情"
+        "file_name": "private-data.pdf",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "chunk_index": 254,
+        "end_char": 84,
+        "start_char": 0
       },
       "chapter": {
         "chapter": "第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情",
@@ -843,13 +843,13 @@ JSON:
       "chunk_id": "private-data-00047",
       "distance": 0.6153222322463989,
       "metadata": {
-        "page": 11,
         "end_char": 78,
+        "file_name": "private-data.pdf",
+        "page": 11,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
         "chunk_index": 47,
         "chapter": "第 9 部 罪行及補償 > 第 2 分部 —— 要求提供材料及協助 66D. 專員要求提供材料及協助的權力",
-        "start_char": 0,
-        "file_name": "private-data.pdf",
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf"
+        "start_char": 0
       },
       "chapter": {
         "chapter": "第 9 部 罪行及補償 > 第 2 分部 —— 要求提供材料及協助 66D. 專員要求提供材料及協助的權力",
@@ -882,13 +882,13 @@ JSON:
       "chunk_id": "private-data-00096",
       "distance": 0.6240125298500061,
       "metadata": {
-        "end_char": 43,
         "page": 46,
-        "start_char": 0,
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
         "file_name": "private-data.pdf",
-        "chapter": "第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料",
-        "chunk_index": 96
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "start_char": 0,
+        "chunk_index": 96,
+        "end_char": 43,
+        "chapter": "第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料"
       },
       "chapter": {
         "chapter": "第 5 部 個人資料的查閱及更正 > 第 1 分部 —— 查閱個人資料",
@@ -914,12 +914,12 @@ JSON:
       "distance": 0.6359990835189819,
       "metadata": {
         "end_char": 5,
-        "file_name": "private-data.pdf",
+        "page": 2,
+        "chapter": "第 7 部",
         "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
         "start_char": 0,
-        "page": 2,
         "chunk_index": 7,
-        "chapter": "第 7 部"
+        "file_name": "private-data.pdf"
       },
       "chapter": {},
       "document": "[法規章節] 第 7 部\n第 7 部"
@@ -929,13 +929,13 @@ JSON:
       "chunk_id": "private-data-00198",
       "distance": 0.6372815370559692,
       "metadata": {
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
         "end_char": 43,
-        "start_char": 0,
-        "page": 142,
         "chapter": "第 9 部 罪行及補償",
-        "file_name": "private-data.pdf",
-        "chunk_index": 198
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "page": 142,
+        "start_char": 0,
+        "chunk_index": 198,
+        "file_name": "private-data.pdf"
       },
       "chapter": {
         "chapter": "第 9 部 罪行及補償",
@@ -982,13 +982,13 @@ JSON:
       "chunk_id": "private-data-00072",
       "distance": 0.6380867958068848,
       "metadata": {
-        "end_char": 304,
-        "chapter": "第 1 部 導言",
-        "chunk_index": 72,
         "page": 23,
+        "file_name": "private-data.pdf",
+        "chapter": "第 1 部 導言",
         "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
-        "start_char": 0,
-        "file_name": "private-data.pdf"
+        "chunk_index": 72,
+        "end_char": 304,
+        "start_char": 0
       },
       "chapter": {
         "chapter": "第 1 部 導言",
@@ -1037,13 +1037,13 @@ JSON:
       "distance": 0.46508514881134033,
       "rerank_score": 0.7674573662310527,
       "metadata": {
-        "page": 1,
         "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
-        "end_char": 5,
         "chunk_index": 0,
-        "chapter": "第 1 部",
+        "page": 1,
+        "end_char": 5,
+        "start_char": 0,
         "file_name": "private-data.pdf",
-        "start_char": 0
+        "chapter": "第 1 部"
       },
       "chapter": {},
       "document": "[法規章節] 第 1 部\n第 1 部"
@@ -1055,12 +1055,12 @@ JSON:
       "distance": 0.5277902483940125,
       "rerank_score": 0.7361048024043283,
       "metadata": {
-        "file_name": "private-data.pdf",
-        "chunk_index": 32,
         "end_char": 14,
+        "chunk_index": 32,
         "page": 7,
         "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義",
         "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
         "start_char": 0
       },
       "chapter": {
@@ -1090,13 +1090,13 @@ JSON:
       "distance": 0.5314844846725464,
       "rerank_score": 0.734257668137739,
       "metadata": {
-        "start_char": 0,
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
-        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
-        "chunk_index": 46,
-        "end_char": 14,
         "file_name": "private-data.pdf",
-        "page": 11
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "end_char": 14,
+        "page": 11,
+        "chunk_index": 46,
+        "start_char": 0,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf"
       },
       "chapter": {
         "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
@@ -1123,13 +1123,13 @@ JSON:
       "distance": 0.5666234493255615,
       "rerank_score": 0.7166879632009409,
       "metadata": {
-        "end_char": 5,
-        "chapter": "第 2 部",
-        "file_name": "private-data.pdf",
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
-        "chunk_index": 1,
         "page": 1,
-        "start_char": 0
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 5,
+        "file_name": "private-data.pdf",
+        "start_char": 0,
+        "chunk_index": 1,
+        "chapter": "第 2 部"
       },
       "chapter": {},
       "document": "[法規章節] 第 2 部\n第 2 部"

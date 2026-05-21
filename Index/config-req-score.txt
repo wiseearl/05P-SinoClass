@@ -1,4 +1,4 @@
-question:個人資料條例第一條
+question:個人資料條例第一部內容
 model=qwen3.5:4b
 embedding_model=nomic-embed-text
 base_url=http://localhost:11434

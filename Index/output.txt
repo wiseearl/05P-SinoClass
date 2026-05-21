@@ -2,7 +2,7 @@
 個人資料條例第一條
 
 回答:
-提供的上下文中沒有包含《個人資料條例》第一條的完整內容，亦無足夠資訊回答該條文的具体定義或規定。
+資料中沒有足夠資訊。提供的上下文未包含《個人資料（私隱）條例》第一條的內容，僅涉及導言中的特定定義（如資料使用者、個人資料系統等）及赛马会相关的纪律处分条款。
 
 RAG Top 4 結果:
 [1] chunk_id=private-data-00072, distance=0.537564, file=private-data.pdf, page=23
@@ -90,7 +90,7 @@ JSON:
   "index_path": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\db\\chapter-index.json",
   "collection": "private-data-chapter-index",
   "question": "個人資料條例第一條",
-  "answer": "提供的上下文中沒有包含《個人資料條例》第一條的完整內容，亦無足夠資訊回答該條文的具体定義或規定。",
+  "answer": "資料中沒有足夠資訊。提供的上下文未包含《個人資料（私隱）條例》第一條的內容，僅涉及導言中的特定定義（如資料使用者、個人資料系統等）及赛马会相关的纪律处分条款。",
   "base_url": "http://localhost:11434",
   "model": "qwen3.5:4b",
   "embedding_model": "nomic-embed-text",
@@ -100,12 +100,12 @@ JSON:
       "chunk_id": "private-data-00072",
       "distance": 0.5375639200210571,
       "metadata": {
-        "chunk_index": 72,
-        "start_char": 0,
-        "file_name": "private-data.pdf",
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
         "end_char": 304,
         "chapter": "第 1 部 導言",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "start_char": 0,
+        "file_name": "private-data.pdf",
+        "chunk_index": 72,
         "page": 23
       },
       "chapter": {
@@ -151,13 +151,13 @@ JSON:
       "chunk_id": "private-data-00066",
       "distance": 0.5411471128463745,
       "metadata": {
-        "start_char": 0,
-        "chapter": "第 1 部 導言",
         "file_name": "private-data.pdf",
-        "end_char": 489,
         "chunk_index": 66,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
         "page": 17,
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf"
+        "end_char": 489,
+        "chapter": "第 1 部 導言",
+        "start_char": 0
       },
       "chapter": {
         "chapter": "第 1 部 導言",
@@ -202,13 +202,13 @@ JSON:
       "chunk_id": "private-data-00254",
       "distance": 0.5434380769729614,
       "metadata": {
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 84,
+        "chapter": "第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情",
+        "page": 185,
         "start_char": 0,
         "chunk_index": 254,
-        "page": 185,
-        "file_name": "private-data.pdf",
-        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
-        "chapter": "第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情",
-        "end_char": 84
+        "file_name": "private-data.pdf"
       },
       "chapter": {
         "chapter": "第 1 部 授權個人資料私隱專員在不告知有關資料使用者的情",
@@ -233,13 +233,13 @@ JSON:
       "chunk_id": "private-data-00030",
       "distance": 0.5439357161521912,
       "metadata": {
-        "start_char": 0,
-        "page": 7,
         "chunk_index": 30,
+        "file_name": "private-data.pdf",
+        "start_char": 0,
         "chapter": "第 6 部 個人資料等的核對程序及轉移",
         "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
-        "end_char": 62,
-        "file_name": "private-data.pdf"
+        "page": 7,
+        "end_char": 62
       },
       "chapter": {
         "chapter": "第 6 部 個人資料等的核對程序及轉移",
