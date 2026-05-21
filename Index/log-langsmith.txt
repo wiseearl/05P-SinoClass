@@ -1,0 +1,154 @@
+LangSmith subprocess monitor
+
+config_path=D:\Code\CodingP\05P-SinoClass\Index\config-langsmith.txt
+cwd=D:\Code\CodingP\05P-SinoClass\Index
+command=["D:\\Code\\CodingP\\05P-SinoClass\\.venv\\Scripts\\python.exe", "D:\\Code\\CodingP\\05P-SinoClass\\Index\\req-rrf.py"]
+started_at=2026-05-21T15:42:17.680953+00:00
+finished_at=2026-05-21T15:42:29.166102+00:00
+duration_seconds=11.485
+return_code=0
+
+[langsmith]
+{
+  "available": true,
+  "has_api_key": false,
+  "project_name": "sino-class-req-rrf",
+  "tracing_enabled": true,
+  "tracing_mode": "local",
+  "client_error": null,
+  "import_error": null,
+  "run_id": "019e4b33-aa50-7272-92c7-fe453dd5ff0c",
+  "trace_id": "019e4b33-aa50-7272-92c7-fe453dd5ff0c",
+  "session_name": "sino-class-req-rrf",
+  "output_path": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\log-langsmith.txt"
+}
+
+[timeline]
+[2026-05-21T15:42:28.944368+00:00] [stdout] Config file: D:\Code\CodingP\05P-SinoClass\Index\config-rrf.txt
+[2026-05-21T15:42:28.944368+00:00] [stdout] Database path: D:\Code\CodingP\05P-SinoClass\Index\db\data.db
+[2026-05-21T15:42:28.944368+00:00] [stdout] Chapter index path: D:\Code\CodingP\05P-SinoClass\Index\db\chapter-index.json
+[2026-05-21T15:42:28.944368+00:00] [stdout] HNSW index path: D:\Code\CodingP\05P-SinoClass\Index\db\hnsw-index.bin
+[2026-05-21T15:42:28.944368+00:00] [stdout] HNSW manifest path: D:\Code\CodingP\05P-SinoClass\Index\db\hnsw-manifest.json
+[2026-05-21T15:42:28.944368+00:00] [stdout] Collection: private-data-chapter-index
+[2026-05-21T15:42:28.944368+00:00] [stdout] Question: 第一部內容摘要
+[2026-05-21T15:42:28.944368+00:00] [stdout] Chapter count: 56
+[2026-05-21T15:42:28.944368+00:00] [stdout] chapter-index hits: 4
+[2026-05-21T15:42:28.944368+00:00] [stdout] hnsw hits: 4
+[2026-05-21T15:42:28.944368+00:00] [stdout] rrf hits: 4
+[2026-05-21T15:42:28.944368+00:00] [stdout] Output: D:\Code\CodingP\05P-SinoClass\Index\output-rrf.txt
+[2026-05-21T15:42:28.944368+00:00] [stdout] Status: completed
+
+[stdout]
+Config file: D:\Code\CodingP\05P-SinoClass\Index\config-rrf.txt
+Database path: D:\Code\CodingP\05P-SinoClass\Index\db\data.db
+Chapter index path: D:\Code\CodingP\05P-SinoClass\Index\db\chapter-index.json
+HNSW index path: D:\Code\CodingP\05P-SinoClass\Index\db\hnsw-index.bin
+HNSW manifest path: D:\Code\CodingP\05P-SinoClass\Index\db\hnsw-manifest.json
+Collection: private-data-chapter-index
+Question: 第一部內容摘要
+Chapter count: 56
+chapter-index hits: 4
+hnsw hits: 4
+rrf hits: 4
+Output: D:\Code\CodingP\05P-SinoClass\Index\output-rrf.txt
+Status: completed
+
+[stderr]
+(empty)
+
+[json]
+{
+  "execution": {
+    "command": [
+      "D:\\Code\\CodingP\\05P-SinoClass\\.venv\\Scripts\\python.exe",
+      "D:\\Code\\CodingP\\05P-SinoClass\\Index\\req-rrf.py"
+    ],
+    "cwd": "D:\\Code\\CodingP\\05P-SinoClass\\Index",
+    "started_at": "2026-05-21T15:42:17.680953+00:00",
+    "finished_at": "2026-05-21T15:42:29.166102+00:00",
+    "duration_seconds": 11.485,
+    "return_code": 0,
+    "stdout": "Config file: D:\\Code\\CodingP\\05P-SinoClass\\Index\\config-rrf.txt\nDatabase path: D:\\Code\\CodingP\\05P-SinoClass\\Index\\db\\data.db\nChapter index path: D:\\Code\\CodingP\\05P-SinoClass\\Index\\db\\chapter-index.json\nHNSW index path: D:\\Code\\CodingP\\05P-SinoClass\\Index\\db\\hnsw-index.bin\nHNSW manifest path: D:\\Code\\CodingP\\05P-SinoClass\\Index\\db\\hnsw-manifest.json\nCollection: private-data-chapter-index\nQuestion: 第一部內容摘要\nChapter count: 56\nchapter-index hits: 4\nhnsw hits: 4\nrrf hits: 4\nOutput: D:\\Code\\CodingP\\05P-SinoClass\\Index\\output-rrf.txt\nStatus: completed",
+    "stderr": "",
+    "events": [
+      {
+        "timestamp": "2026-05-21T15:42:28.944368+00:00",
+        "stream": "stdout",
+        "message": "Config file: D:\\Code\\CodingP\\05P-SinoClass\\Index\\config-rrf.txt"
+      },
+      {
+        "timestamp": "2026-05-21T15:42:28.944368+00:00",
+        "stream": "stdout",
+        "message": "Database path: D:\\Code\\CodingP\\05P-SinoClass\\Index\\db\\data.db"
+      },
+      {
+        "timestamp": "2026-05-21T15:42:28.944368+00:00",
+        "stream": "stdout",
+        "message": "Chapter index path: D:\\Code\\CodingP\\05P-SinoClass\\Index\\db\\chapter-index.json"
+      },
+      {
+        "timestamp": "2026-05-21T15:42:28.944368+00:00",
+        "stream": "stdout",
+        "message": "HNSW index path: D:\\Code\\CodingP\\05P-SinoClass\\Index\\db\\hnsw-index.bin"
+      },
+      {
+        "timestamp": "2026-05-21T15:42:28.944368+00:00",
+        "stream": "stdout",
+        "message": "HNSW manifest path: D:\\Code\\CodingP\\05P-SinoClass\\Index\\db\\hnsw-manifest.json"
+      },
+      {
+        "timestamp": "2026-05-21T15:42:28.944368+00:00",
+        "stream": "stdout",
+        "message": "Collection: private-data-chapter-index"
+      },
+      {
+        "timestamp": "2026-05-21T15:42:28.944368+00:00",
+        "stream": "stdout",
+        "message": "Question: 第一部內容摘要"
+      },
+      {
+        "timestamp": "2026-05-21T15:42:28.944368+00:00",
+        "stream": "stdout",
+        "message": "Chapter count: 56"
+      },
+      {
+        "timestamp": "2026-05-21T15:42:28.944368+00:00",
+        "stream": "stdout",
+        "message": "chapter-index hits: 4"
+      },
+      {
+        "timestamp": "2026-05-21T15:42:28.944368+00:00",
+        "stream": "stdout",
+        "message": "hnsw hits: 4"
+      },
+      {
+        "timestamp": "2026-05-21T15:42:28.944368+00:00",
+        "stream": "stdout",
+        "message": "rrf hits: 4"
+      },
+      {
+        "timestamp": "2026-05-21T15:42:28.944368+00:00",
+        "stream": "stdout",
+        "message": "Output: D:\\Code\\CodingP\\05P-SinoClass\\Index\\output-rrf.txt"
+      },
+      {
+        "timestamp": "2026-05-21T15:42:28.944368+00:00",
+        "stream": "stdout",
+        "message": "Status: completed"
+      }
+    ]
+  },
+  "langsmith": {
+    "available": true,
+    "has_api_key": false,
+    "project_name": "sino-class-req-rrf",
+    "tracing_enabled": true,
+    "tracing_mode": "local",
+    "client_error": null,
+    "import_error": null,
+    "run_id": "019e4b33-aa50-7272-92c7-fe453dd5ff0c",
+    "trace_id": "019e4b33-aa50-7272-92c7-fe453dd5ff0c",
+    "session_name": "sino-class-req-rrf",
+    "output_path": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\log-langsmith.txt"
+  }
+}
