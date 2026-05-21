@@ -1,0 +1,449 @@
+問題:
+第一部內容摘要
+
+回答:
+資料中沒有足夠資訊。
+
+chapter-index Top 4 結果:
+[1] chunk_id=private-data-00000, score=0.534915, distance=0.465085, file=private-data.pdf, page=1
+章節: 未對應章節
+內容:
+[法規章節] 第 1 部
+第 1 部
+
+[2] chunk_id=private-data-00032, score=0.472210, distance=0.527790, file=private-data.pdf, page=7
+章節: 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義
+內容:
+[法規章節] 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義
+35A. 第 6A 部的釋義
+
+[3] chunk_id=private-data-00046, score=0.468516, distance=0.531484, file=private-data.pdf, page=11
+章節: 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義
+內容:
+[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義
+66C. 第 9A 部的釋義
+
+[4] chunk_id=private-data-00001, score=0.433377, distance=0.566623, file=private-data.pdf, page=1
+章節: 未對應章節
+內容:
+[法規章節] 第 2 部
+第 2 部
+
+hnsw-manifest Top 4 結果:
+[1] chunk_id=private-data-00000, score=0.767458, distance=0.232542, file=private-data.pdf, page=1
+章節: 未對應章節
+內容:
+[法規章節] 第 1 部
+第 1 部
+
+[2] chunk_id=private-data-00032, score=0.736105, distance=0.263895, file=private-data.pdf, page=7
+章節: 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義
+內容:
+[法規章節] 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義
+35A. 第 6A 部的釋義
+
+[3] chunk_id=private-data-00046, score=0.734258, distance=0.265742, file=private-data.pdf, page=11
+章節: 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義
+內容:
+[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義
+66C. 第 9A 部的釋義
+
+[4] chunk_id=private-data-00001, score=0.716688, distance=0.283312, file=private-data.pdf, page=1
+章節: 未對應章節
+內容:
+[法規章節] 第 2 部
+第 2 部
+
+RRF Top 4 結果:
+[1] chunk_id=private-data-00000, rrf_score=0.032787, chapter_rank=1, chapter_score=0.534915, hnsw_rank=1, hnsw_score=0.767458, file=private-data.pdf, page=1
+章節: 未對應章節
+內容:
+[法規章節] 第 1 部
+第 1 部
+
+[2] chunk_id=private-data-00032, rrf_score=0.032258, chapter_rank=2, chapter_score=0.472210, hnsw_rank=2, hnsw_score=0.736105, file=private-data.pdf, page=7
+章節: 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義
+內容:
+[法規章節] 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義
+35A. 第 6A 部的釋義
+
+[3] chunk_id=private-data-00046, rrf_score=0.031746, chapter_rank=3, chapter_score=0.468516, hnsw_rank=3, hnsw_score=0.734258, file=private-data.pdf, page=11
+章節: 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義
+內容:
+[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義
+66C. 第 9A 部的釋義
+
+[4] chunk_id=private-data-00001, rrf_score=0.031250, chapter_rank=4, chapter_score=0.433377, hnsw_rank=4, hnsw_score=0.716688, file=private-data.pdf, page=1
+章節: 未對應章節
+內容:
+[法規章節] 第 2 部
+第 2 部
+
+JSON:
+{
+  "config_path": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\config-rrf.txt",
+  "chapter_index_path": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\db\\chapter-index.json",
+  "hnsw_index_path": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\db\\hnsw-index.bin",
+  "hnsw_manifest_path": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\db\\hnsw-manifest.json",
+  "collection": "private-data-chapter-index",
+  "question": "第一部內容摘要",
+  "answer": "資料中沒有足夠資訊。",
+  "base_url": "http://localhost:11434",
+  "model": "qwen3.5:4b",
+  "embedding_model": "nomic-embed-text",
+  "rrf_k": 60,
+  "chapter_hits": [
+    {
+      "rank": 1,
+      "chunk_id": "private-data-00000",
+      "document": "[法規章節] 第 1 部\n第 1 部",
+      "metadata": {
+        "page": 1,
+        "chapter": "第 1 部",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "chunk_index": 0,
+        "file_name": "private-data.pdf",
+        "start_char": 0,
+        "end_char": 5
+      },
+      "chapter": {},
+      "distance": 0.46508514881134033,
+      "score": 0.5349148511886597
+    },
+    {
+      "rank": 2,
+      "chunk_id": "private-data-00032",
+      "document": "[法規章節] 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義\n35A. 第 6A 部的釋義",
+      "metadata": {
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "start_char": 0,
+        "end_char": 14,
+        "chunk_index": 32,
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義",
+        "page": 7
+      },
+      "chapter": {
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          7,
+          73,
+          74
+        ],
+        "chunk_ids": [
+          "private-data-00032",
+          "private-data-00128",
+          "private-data-00129"
+        ],
+        "chunk_count": 3,
+        "preview": "35A. 第 6A 部的釋義",
+        "index_order": 13
+      },
+      "distance": 0.5277902483940125,
+      "score": 0.47220975160598755
+    },
+    {
+      "rank": 3,
+      "chunk_id": "private-data-00046",
+      "document": "[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義\n66C. 第 9A 部的釋義",
+      "metadata": {
+        "start_char": 0,
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 14,
+        "page": 11,
+        "chunk_index": 46,
+        "file_name": "private-data.pdf"
+      },
+      "chapter": {
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          11,
+          143
+        ],
+        "chunk_ids": [
+          "private-data-00046",
+          "private-data-00201"
+        ],
+        "chunk_count": 2,
+        "preview": "66C. 第 9A 部的釋義",
+        "index_order": 24
+      },
+      "distance": 0.5314844846725464,
+      "score": 0.4685155153274536
+    },
+    {
+      "rank": 4,
+      "chunk_id": "private-data-00001",
+      "document": "[法規章節] 第 2 部\n第 2 部",
+      "metadata": {
+        "page": 1,
+        "end_char": 5,
+        "chapter": "第 2 部",
+        "start_char": 0,
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "chunk_index": 1
+      },
+      "chapter": {},
+      "distance": 0.5666234493255615,
+      "score": 0.4333765506744385
+    }
+  ],
+  "hnsw_hits": [
+    {
+      "rank": 1,
+      "label": 0,
+      "chunk_id": "private-data-00000",
+      "document": "[法規章節] 第 1 部\n第 1 部",
+      "metadata": {
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "start_char": 0,
+        "end_char": 5,
+        "chapter": "第 1 部",
+        "page": 1,
+        "chunk_index": 0,
+        "file_name": "private-data.pdf"
+      },
+      "chapter": {},
+      "distance": 0.23254245519638062,
+      "score": 0.7674575448036194
+    },
+    {
+      "rank": 2,
+      "label": 32,
+      "chunk_id": "private-data-00032",
+      "document": "[法規章節] 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義\n35A. 第 6A 部的釋義",
+      "metadata": {
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "page": 7,
+        "start_char": 0,
+        "file_name": "private-data.pdf",
+        "chunk_index": 32,
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義",
+        "end_char": 14
+      },
+      "chapter": {
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          7,
+          73,
+          74
+        ],
+        "chunk_ids": [
+          "private-data-00032",
+          "private-data-00128",
+          "private-data-00129"
+        ],
+        "chunk_count": 3,
+        "preview": "35A. 第 6A 部的釋義",
+        "index_order": 13
+      },
+      "distance": 0.2638951539993286,
+      "score": 0.7361048460006714
+    },
+    {
+      "rank": 3,
+      "label": 46,
+      "chunk_id": "private-data-00046",
+      "document": "[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義\n66C. 第 9A 部的釋義",
+      "metadata": {
+        "chunk_index": 46,
+        "file_name": "private-data.pdf",
+        "end_char": 14,
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "start_char": 0,
+        "page": 11
+      },
+      "chapter": {
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          11,
+          143
+        ],
+        "chunk_ids": [
+          "private-data-00046",
+          "private-data-00201"
+        ],
+        "chunk_count": 2,
+        "preview": "66C. 第 9A 部的釋義",
+        "index_order": 24
+      },
+      "distance": 0.2657421827316284,
+      "score": 0.7342578172683716
+    },
+    {
+      "rank": 4,
+      "label": 1,
+      "chunk_id": "private-data-00001",
+      "document": "[法規章節] 第 2 部\n第 2 部",
+      "metadata": {
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 5,
+        "chapter": "第 2 部",
+        "chunk_index": 1,
+        "start_char": 0,
+        "file_name": "private-data.pdf",
+        "page": 1
+      },
+      "chapter": {},
+      "distance": 0.28331196308135986,
+      "score": 0.7166880369186401
+    }
+  ],
+  "rrf_hits": [
+    {
+      "chunk_id": "private-data-00000",
+      "document": "[法規章節] 第 1 部\n第 1 部",
+      "metadata": {
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "start_char": 0,
+        "end_char": 5,
+        "chapter": "第 1 部",
+        "page": 1,
+        "chunk_index": 0,
+        "file_name": "private-data.pdf"
+      },
+      "chapter": {},
+      "rrf_score": 0.03278688524590164,
+      "sources": {
+        "chapter": {
+          "rank": 1,
+          "distance": 0.46508514881134033,
+          "score": 0.5349148511886597
+        },
+        "hnsw": {
+          "rank": 1,
+          "distance": 0.23254245519638062,
+          "score": 0.7674575448036194
+        }
+      },
+      "rank": 1
+    },
+    {
+      "chunk_id": "private-data-00032",
+      "document": "[法規章節] 第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義\n35A. 第 6A 部的釋義",
+      "metadata": {
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "page": 7,
+        "start_char": 0,
+        "file_name": "private-data.pdf",
+        "chunk_index": 32,
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義",
+        "end_char": 14
+      },
+      "chapter": {
+        "chapter": "第 6 部 個人資料等的核對程序及轉移 > 第 1 分部 —— 釋義 > 35A. 第 6A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          7,
+          73,
+          74
+        ],
+        "chunk_ids": [
+          "private-data-00032",
+          "private-data-00128",
+          "private-data-00129"
+        ],
+        "chunk_count": 3,
+        "preview": "35A. 第 6A 部的釋義",
+        "index_order": 13
+      },
+      "rrf_score": 0.03225806451612903,
+      "sources": {
+        "chapter": {
+          "rank": 2,
+          "distance": 0.5277902483940125,
+          "score": 0.47220975160598755
+        },
+        "hnsw": {
+          "rank": 2,
+          "distance": 0.2638951539993286,
+          "score": 0.7361048460006714
+        }
+      },
+      "rank": 2
+    },
+    {
+      "chunk_id": "private-data-00046",
+      "document": "[法規章節] 第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義\n66C. 第 9A 部的釋義",
+      "metadata": {
+        "chunk_index": 46,
+        "file_name": "private-data.pdf",
+        "end_char": 14,
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "start_char": 0,
+        "page": 11
+      },
+      "chapter": {
+        "chapter": "第 9 部 罪行及補償 > 第 1 分部 —— 釋義 > 66C. 第 9A 部的釋義",
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "file_name": "private-data.pdf",
+        "pages": [
+          11,
+          143
+        ],
+        "chunk_ids": [
+          "private-data-00046",
+          "private-data-00201"
+        ],
+        "chunk_count": 2,
+        "preview": "66C. 第 9A 部的釋義",
+        "index_order": 24
+      },
+      "rrf_score": 0.031746031746031744,
+      "sources": {
+        "chapter": {
+          "rank": 3,
+          "distance": 0.5314844846725464,
+          "score": 0.4685155153274536
+        },
+        "hnsw": {
+          "rank": 3,
+          "distance": 0.2657421827316284,
+          "score": 0.7342578172683716
+        }
+      },
+      "rank": 3
+    },
+    {
+      "chunk_id": "private-data-00001",
+      "document": "[法規章節] 第 2 部\n第 2 部",
+      "metadata": {
+        "source": "D:\\Code\\CodingP\\05P-SinoClass\\Index\\doc\\private-data.pdf",
+        "end_char": 5,
+        "chapter": "第 2 部",
+        "chunk_index": 1,
+        "start_char": 0,
+        "file_name": "private-data.pdf",
+        "page": 1
+      },
+      "chapter": {},
+      "rrf_score": 0.03125,
+      "sources": {
+        "chapter": {
+          "rank": 4,
+          "distance": 0.5666234493255615,
+          "score": 0.4333765506744385
+        },
+        "hnsw": {
+          "rank": 4,
+          "distance": 0.28331196308135986,
+          "score": 0.7166880369186401
+        }
+      },
+      "rank": 4
+    }
+  ]
+}
